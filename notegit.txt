@@ -21,5 +21,36 @@ git rm f1
 
 git remote add origin https://github.com/leehp258/d830r.git
 git push -u origin master
+git push origin master
+git branch
+git branch b1
+git checkout b1
+git checkout -b b1
+git checkout master
+git merge b1
+git merge --no-ff -m "merge no-ff" b1
+git branch -d dev
+git log --graph --pretty=oneline --abbrev-commit
+git stash
+git stash list
+git stash pop
+git remote [-v]
+git checkout -b b1 origin/b1
+git push origin dev
+git branch --set-upstream b1 origin/b1
+git pull
+git tag
+git tag v1.0
+git show v1.0
+git tag -a v1.0 -m "version 1.0" commit_id
+git tag -s v1.0 -m "signed v1.0" commit_id
+git tag -d v1.0
+git tag -v v1.0
+git push origin v1.0
+git push origin --tags
+git push origin :refs/tags/v1.0
+
+git config --global color.ui true
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
 https://desktop.github.com/
