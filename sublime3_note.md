@@ -98,7 +98,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 菜单项`Preferences->Browse Packages`，在打开的目录中找到SublimeREPL/config/Python/Main.sublime-menu文件，
 修改其中的cmd值为相应的解释器路径
 
-Jedi 智能补全插件
+Jedi - Python autocompletion 智能补全插件
 ```json
 # 快捷键
 "goto": "ctrl+shift+g"
