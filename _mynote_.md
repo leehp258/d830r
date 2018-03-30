@@ -1,5 +1,6 @@
 ### git
-> repo.gstianfu.com
+> repo.xxxianfu.com
+> ssh git@repo.xxxianfu.com
 > 直接从release切一个分支
 
 ```shell
@@ -8,8 +9,8 @@
 # 常用
 # init or clone
 git init
-git clone git@repo.gstianfu.com:simu/data_service
-git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
+git clone git@repo.xxxianfu.com:simu/data_service
+git clone git@repo.xxxianfu.com:backend/projects/gezi.git ./
 
 # branch
 git branch -a/r
@@ -92,7 +93,7 @@ tmux kill-window -t test # 删除session
 # 进入gezi环境
 source ~/virtualenv/gezi/bin/activate
 # 更新gscache
-pip install -e git+git@repo.gstianfu.com:backend/libs/gscache.git#egg=gscache
+pip install -e git+git@repo.xxxianfu.com:backend/libs/gscache.git#egg=gscache
 
 # requirements.txt
 (venv) pip freeze > requirements.txt

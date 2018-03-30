@@ -2,8 +2,8 @@ git备忘
 
 ### 初始化和克隆
 git init
-git clone git@repo.gstianfu.com:simu/data_service
-git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
+git clone git@repo.xxxianfu.com:simu/data_service
+git clone git@repo.xxxianfu.com:backend/projects/gezi.git ./
 
 ### 分支
 ```shell
