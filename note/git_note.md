@@ -142,7 +142,7 @@ git rebase -i [分支名或commit_id] # git 会打开编辑器
 git rebase –abort
 
 方式二
-git commit –fixup <commit> # 标记此次为上一commit的fix
+git commit --fixup <commit> # 标记此次为上一commit的fix
 git rebase -i –autosquash # 合并两个commit
 git rebase -i -autosquash <commit>^
 
