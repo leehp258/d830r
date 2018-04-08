@@ -1,21 +1,28 @@
 # Git安装和配置
 ```shell
+sudo apt install git
+
 git config --global user.name "xxx"
 git config --global user.email "xxx@gmail.com"
 
+git config --global push.default simple
+
+vim ~/.gitconfig
 git config --list #查看git配置
 
 # 生成SHH密匙
 cd ~/.ssh
-ssh-keygen -t rsa -C "xxx@gmail.com"
+ssh-keygen -t rsa -b 2048 -C "xxx@email.com"
 ```
 
 # 拉取和提交
 ```shell
 git init
+git clone https://github.com/xxx/xxx.git
+git clone git@github.com:xxx/xxx.git
+
 git clone git@repo.gstianfu.com:simu/data_service
 git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
-
 
 ```
 
@@ -23,6 +30,8 @@ git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
 ```shell
 git log --pretty=oneline 文件名 # 显示修改历史
 git show f76114d99 # 查看更改
+
+git log --oneline | --raw
 
 git diff
 git diff 3dec0e8ea824902 76412c34a63b210
@@ -51,6 +60,10 @@ git diff HEAD
 
 12 git commit -am "update xxx"
 34 git checkout HEAD -- xxx # repo覆盖work
+
+git commit --amend --no-edit
+git commit --amend -m <msg>
+
 ```
 
 # branch
@@ -128,6 +141,20 @@ git rebase HEAD master # 将master指向已删除地址。
 git branch <新分支名> 422e9ad
 ```
 
+# Git历史版本穿梭
+```shell
+# 回滚
+cat .git/HEAD
+cat .git/refs/heads/master
+git log --oneline
+git reset --hard <commit_id>
+# 撤销回滚
+cat .git/logs/refs/heads/master
+git reflog show master | head -4 #查看前四次log记录
+git reset --hard master@{x}
+git reset --hard <commit_id>
+```
+
 # git合并多个commit记录
 本地临时的commit可能会很多，push时希望合并无用的commit记录。有以下两种方式:
 方式一：
@@ -143,8 +170,12 @@ git rebase –abort
 
 方式二
 git commit --fixup <commit> # 标记此次为上一commit的fix
-git rebase -i –autosquash # 合并两个commit
-git rebase -i -autosquash <commit>^
+git rebase -i --autosquash # 合并两个commit
+git rebase -i --autosquash <commit>^
+
+# rebase的使用场景
+用来替代 merge
+用来修改 commit 历史
 
 # git删除文件：
 ```shell
@@ -262,6 +293,8 @@ status_code.json
 要为某个项目贡献代码，首先要Fork这个Repo到你的Github账号下，然后修改提交。
 如果想合并到原Repo，需要在Github发起一个Pull Request，请求原Repo的所有者合并你的分支。
 
+
+
 > 参考：
 > http://www.runoob.com/manual/git-guide/
-
+>

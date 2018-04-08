@@ -733,11 +733,11 @@ git checkout gezi/office_settings.py
 emacs gezi/local_settings.py
 python manage.py runserver 0.0.0.0:9000
 python manage.py shell
-curl "http://192.168.4.4:50080/BjAdmin/Interface/gscrmtotianfu.asmx"
+curl "http://192.168.4.4:50080/BjAdmin/Interface/gscrmtoxxfu.asmx"
 python manage.py shell
-curl """http://192.168.4.4:50080/BjAdmin/Interface/gscrmtotianfu.asmx?WSDL"
-curl ""http://192.168.4.4:50080/BjAdmin/Interface/gscrmtotianfu.asmx?WSDL"
-curl "http://192.168.4.4:50080/BjAdmin/Interface/gscrmtotianfu.asmx?WSDL"
+curl """http://192.168.4.4:50080/BjAdmin/Interface/gscrmtoxxfu.asmx?WSDL"
+curl ""http://192.168.4.4:50080/BjAdmin/Interface/gscrmtoxxfu.asmx?WSDL"
+curl "http://192.168.4.4:50080/BjAdmin/Interface/gscrmtoxxfu.asmx?WSDL"
 python
 exit
 ls
@@ -1071,10 +1071,10 @@ emacs utility/ga.py
 python manage.py runserver 0.0.0.0:9100
 emacs auth/views/api.py
 python manage.py runserver 0.0.0.0:9100
-curl "https://analytics.gstianfu.com"
-ping analytics.gstianfu.com
+curl "https://analytics.xxanfu.com"
+ping analytics.xxanfu.com
 emacs utility/ga.py
-ping analytics.gstianfu.com
+ping analytics.xxanfu.com
 python manage.py runserver 0.0.0.0:9100
 cat reqs.txt
 pip install -e git+git@repo.yuexue.com:backend/libs/gatool.git#egg=gatool
@@ -1321,19 +1321,19 @@ pip install pinyin
 cd
 cd ~/synced/backend/projects/gezi/
 cat reqs.txt
-pip install -e git+git@repo.gstianfu.com:backend/libs/gsutil.git#egg=gsutil
-pip install -e git+git@repo.gstianfu.com:backend/libs/gsasync.git#egg=gsasync
-pip install -e git+git@repo.gstianfu.com:backend/libs/ravenmsg.git#egg=ravenmsg
+pip install -e git+git@repo.xxanfu.com:backend/libs/gsutil.git#egg=gsutil
+pip install -e git+git@repo.xxanfu.com:backend/libs/gsasync.git#egg=gsasync
+pip install -e git+git@repo.xxanfu.com:backend/libs/ravenmsg.git#egg=ravenmsg
 python
 pip install pinyin
 ls
 pip freeze
 pip install redis
 cat reqs.txt
-pi install -e git+git@repo.gstianfu.com:backend/libs/gsdb.git#egg=gsdb
-pip install -e git+git@repo.gstianfu.com:backend/libs/gsdb.git#egg=gsdb
-pip install -e git+git@repo.gstianfu.com:backend/libs/gscache.git#egg=gscache
-pip install -e git+git@repo.gstianfu.com:backend/libs/gatool.git#egg=gatool
+pi install -e git+git@repo.xxanfu.com:backend/libs/gsdb.git#egg=gsdb
+pip install -e git+git@repo.xxanfu.com:backend/libs/gsdb.git#egg=gsdb
+pip install -e git+git@repo.xxanfu.com:backend/libs/gscache.git#egg=gscache
+pip install -e git+git@repo.xxanfu.com:backend/libs/gatool.git#egg=gatool
 sudo curl -o `git --exec-path`/git-deploy-archive "https://raw.githubusercontent.com/socrateslee/git-deploy-archive/master/git-deploy-archive.sh"
 sudo chmod +x `git --exec-path`/git-deploy-archive
 ls `git --exec-path`
@@ -1513,14 +1513,14 @@ ls
 cd ..
 mkdir -p code/backend/projects/gezi
 cd code/backend/projects/gezi
-git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
+git clone git@repo.xxanfu.com:backend/projects/gezi.git ./
 git submodule update --init
 cd ~
 mkdir -p code/frontend/projects/gezi
 cd code/frontend/projects/gezi
-git clone git@repo.gstianfu.com:frontend/projects/gezi.git ./
+git clone git@repo.xxanfu.com:frontend/projects/gezi.git ./
 cd ~/code/backend/projects/
-git clone git@repo.gstianfu.com:simu/data_service
+git clone git@repo.xxanfu.com:simu/data_service
 ls
 cd gezi/
 ls
@@ -1809,9 +1809,9 @@ git checkout master
 git pull
 ls
 vim reqs.txt
-pip install -e git+git@repo.gstianfu.com:backend/libs/gscache.git#egg=gscache
+pip install -e git+git@repo.xxanfu.com:backend/libs/gscache.git#egg=gscache
 source ~/virtualenv/gezi/bin/activate
-pip install -e git+git@repo.gstianfu.com:backend/libs/gscache.git#egg=gscache
+pip install -e git+git@repo.xxanfu.com:backend/libs/gscache.git#egg=gscache
 tmux
 tmux ls
 tmux a
@@ -1888,7 +1888,7 @@ ls
 mkdir gezi
 cd gezi
 ls
-git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
+git clone git@repo.xxanfu.com:backend/projects/gezi.git ./
 vim ad/ops/ad_util.py
 git status
 git branch
@@ -1941,7 +1941,7 @@ cd code/backend/projects/
 ls
 cd gezi
 ls
-git clone git@repo.gstianfu.com:backend/projects/gezi.git ./
+git clone git@repo.xxanfu.com:backend/projects/gezi.git ./
 ls
 git submodule update --init
 ls
@@ -1951,4 +1951,3 @@ cd ..
 ls
 vim gezi_bak01/
 tmux a
-
