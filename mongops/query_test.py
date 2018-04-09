@@ -21,8 +21,11 @@ mongo_conf = {
 for alias, attrs in mongo_conf.items():
     mongoengine.register_connection(alias, **attrs)
 
-class User(Document):
+class UserInfo(Document):
+    user_id = StringField()
     name = StringField(max_length=50, required=True)
+    sex = IntField(default=0)
+    cunt = IntField(default=0)
     modified = DateTimeField(default=datetime.datetime.now) # utcnow
     
     meta = {'db_alias':'user-db'}
@@ -30,22 +33,6 @@ class User(Document):
     def __str__(self):
         return "{}[{}]".format(self.name, self.modified)
 
-class Page(Document):
-    title = StringField()
-    author = ReferenceField(User)
-
-    meta = {'db_alias':'user-db'}
-
-class Book(Document):
-    name = StringField()
-
-    meta = {'db_alias':'book-db'}
-
-class AuthorBooks(Document):
-    author = ReferenceField(User)
-    book = ReferenceField(Book)
-
-    meta = {'db_alias': 'book-db'}
 
 def querying():
     print('----------querying----------')
@@ -62,25 +49,13 @@ def querying():
     print(pg)
 
 def add_datas():
-    ross = User(name='Ross').save()
-    john = User(name='John').save()
+    ross = UserInfo(name='Ross', cunt=1).save()
+    john = UserInfo(name='John').save()
 
-    b1 = Book(name='About Mongoengine').save()
-    b2 = Book(name='Python Cookbook').save()
-    
-    AuthorBooks(author=ross, book=b1).save()
-    AuthorBooks(author=john, book=b2).save()
-
-def add_page_datas():
-    tim = User(name='Tim').save()
-    page = Page(title='Test Page')
-    page.author = tim
-    page.save()
 
 def main():
-    #add_datas()
-    #add_page_datas()
-    querying()
+    add_datas()
+    #querying()
 
 
 if __name__ == '__main__':

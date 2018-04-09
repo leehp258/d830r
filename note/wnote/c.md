@@ -1,4 +1,19 @@
 ```shell
+# std
+# 舱
+cab, cabbage, cabinet, cabin, cabal 
+cabin crew
+cabined
+cabinetmaker
+cache
+
+cable, halter, 
+
+
+
+```
+
+```shell
 catch, capture
 
 conceive 怀孕(孕育); 构思(酝酿); 持有
