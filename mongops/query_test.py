@@ -21,41 +21,93 @@ mongo_conf = {
 for alias, attrs in mongo_conf.items():
     mongoengine.register_connection(alias, **attrs)
 
+class ExInfo(EmbeddedDocument):
+    age = IntField(default=0)
+    weight = IntField(default=0)
+    nickname = StringField()
+
 class UserInfo(Document):
-    user_id = StringField()
     name = StringField(max_length=50, required=True)
     sex = IntField(default=0)
-    cunt = IntField(default=0)
+    cunt = IntField(default=1)
     modified = DateTimeField(default=datetime.datetime.now) # utcnow
+    ex = EmbeddedDocumentField(ExInfo, default=ExInfo())
     
     meta = {'db_alias':'user-db'}
 
     def __str__(self):
-        return "{}[{}]".format(self.name, self.modified)
+        return "{},{},ex:{}".format(self.name, self.sex, self.ex.nickname)
 
+class Comment(EmbeddedDocument):
+    content = StringField()
+
+class Page(DynamicDocument):
+    title = StringField()
+    tag = ListField(StringField())
+    comments = ListField(EmbeddedDocumentField(Comment))
+    content = StringField()
+    author = ReferenceField(UserInfo)
+    date_modified = DateTimeField(default=datetime.datetime.now)
+
+    meta = {'db_alias':'user-db'}
+    def __str__(self):
+        return "{},{},{},{}".format(self.pk, self.title, self.tag, ','.join([x.content for x in self.comments]))
+
+def add_pages():
+    c1 = Comment(content='comment_cont1')
+    c2 = Comment(content='comment_cont2222')
+    c3 = Comment(content='comment_cont3')
+    c4 = Comment(content='comment_cont4')
+    c5 = Comment(content='comment_cont5')
+    c6 = Comment(content='comment_cont6')
+    c7 = Comment(content='comment_cont7')
+
+    p = Page(title='tit1')
+    p.tag = ['tag1', 'tag2', 'tag3']
+    p.content = 'cont1'
+    p.comments = [c1,c2,c3]
+    p.save()
+    p2 = Page(title='titl2', content='cont2')
+    p2.tag = ['tag21', 't22', 't23', 't24']
+    p2.comments = [c4, c5, c6, c7]
+    p2.save()
+
+def prt(*args):
+    print('- '*30)
+    print(args)
 
 def querying():
     print('----------querying----------')
-    for user in User.objects:
-        print(user.pk, user.name, user.modified)
+    print(UserInfo.objects(name='John'))
+    print(':::', UserInfo.objects(name='Johni').first())
+    print(UserInfo.objects(ex__nickname='Jetter'))
+    print('---------Page Query-------')
+    #prt(Page.objects())
+    prt(Page.objects(tag='tag21'))
+    prt(Page.objects(tag__0='tag1'))
+    prt(Page.objects(tag='tag1').fields(slice__comments=[1,3]))
+    prt(Page.objects(tag='tag1').fields(slice__tag=[2,4]))
 
-    print(User.objects(name='John'))
-    print(':::', User.objects(name='Johni').first())
-
-    ab=AuthorBooks.objects(author__name='John')
-#    print(ab)
-    u_tim = User.objects(name='Tim')
-    pg=Page.objects(author__in=u_tim)
-    print(pg)
 
 def add_datas():
-    ross = UserInfo(name='Ross', cunt=1).save()
-    john = UserInfo(name='John').save()
+    ross = UserInfo(name='Ross')
+    #print(ross.cunt)
+    ross.cunt = 1
+    ross.save()
+    UserInfo(name='John').save()
+    UserInfo(name='Jack').save()
 
+def add_datas2():
+    jet = UserInfo(name='Jet')
+    exi = ExInfo(nickname='Jetter')
+    jet.ex = exi
+    jet.save()
 
 def main():
-    add_datas()
-    #querying()
+    #add_datas()
+    #add_datas2()
+    #add_pages()
+    querying()
 
 
 if __name__ == '__main__':
