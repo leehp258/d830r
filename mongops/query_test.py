@@ -87,6 +87,10 @@ def querying():
     prt(Page.objects(tag__0='tag1'))
     prt(Page.objects(tag='tag1').fields(slice__comments=[1,3]))
     prt(Page.objects(tag='tag1').fields(slice__tag=[2,4]))
+    
+    p = Page.objects().first()
+    prt(p.id)
+    prt(p.pk)
 
 
 def add_datas():
