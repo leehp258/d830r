@@ -23,3 +23,25 @@ propone propose postpone
 G-M food: Genetically modified food
 trait traitor tract draft draw 
 ```
+
+## What makes this debate unique is that every meal we eat is at its very core. And that fact means one thing： it‘s an issue to be discussed not only around policy tables， but dinner tables.
+```
+debate debut doubt discuss dispute controvert argue (propone, propose)
+```
+##“Contact us before writing your application” or “Make use of our long experience in preparing your curriculum vitae or job history” is how it is usually expressed.
+```
+```
+##There is no doubt， however， that it is the increasing number of applicants with university education at all points in the process of engaging staff that has led to the greater importance of the curriculum vitae.
+```
+doubt double
+```
+##Other goals of the interview are： to answer questions successfully， obtain any additional information needed to make a decision， accent your special strengths， establish a positive relationship， show confidence， and to sell yourself.
+```
+accent emphasis
+```
+##The before stage includes writing a confirmation letter， concentrating on appearance and nonverbal communication， developing your portfolio， anticipating questions with positive responses， and arriving early.
+```
+portfolio buffalo
+```
+
+
