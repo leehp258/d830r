@@ -44,4 +44,12 @@ accent emphasis
 portfolio buffalo
 ```
 
-
+## Hardy’s weakness derived from his apparent inability to control the comings and goings of these divergent impulses and from his unwillingness to cultivate and sustain the energetic and risky ones.
+```
+cultivate create
+```
+## With the conclusion of a burst activity, the lactic acid level is high in the body fluids, leaving the large animal vulnerable to attack until the acid is reconverted , via oxidative metabolism, by the liver into glucose , which is then sent (in part )back to the muscles for glycogen resynthesis .
+```
+lactic galaxy
+glyc glucose glue clue candy sugar
+```
