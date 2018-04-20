@@ -53,3 +53,7 @@ cultivate create
 lactic galaxy
 glyc glucose glue clue candy sugar
 ```
+##Even free traders and internationalists agree China’s predatory trade practices—which include forcing U.S. business to transfer valuable technology to Chinese firms and restricting access to Chinese markets—are undermining both its partners and the trading system.
+```
+predatory predator predation plunder
+```
