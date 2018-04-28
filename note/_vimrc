@@ -1,0 +1,79 @@
+set nu
+"set ai
+"set si
+"set autoindent
+"set fileformat=unix
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set expandtab
+"set foldenable
+set foldmethod=indent
+set foldlevel=0
+nnoremap <space> za
+set encoding=utf-8
+
+"vundle
+set nocompatible  "required
+filetype off      "required
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" let Vundle manage Vundle, required
+Plugin 'gmarik/Vundle.vim'
+" add all your plugins here
+Plugin 'tmhedberg/SimpylFold'
+Plugin 'vim-scripts/indentpython.vim'
+"Bundle 'Valloric/YouCompleteMe'
+Plugin 'scrooloose/syntastic'
+Plugin 'nvie/vim-flake8'
+Plugin 'jnurmine/Zenburn'
+Plugin 'altercation/vim-colors-solarized'
+"Plugin 'bling/vim-bufferline'
+Plugin 'roblillack/vim-bufferlist'
+
+call vundle#end()
+filetype plugin indent on  "required
+let python_highlight_all=1
+syntax on
+
+
+"split navigations
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+
+"fold
+let g:SimpylFold_docstring_preview=1
+
+"python
+au BufNewFile,BufRead *.py
+\ set tabstop=4
+\ set softtabstop=4
+\ set shiftwidth=4
+\ set textwidth=79
+\ set expandtab
+\ set autoindent
+\ set fileformat=unix
+
+"au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
+
+au BufNewFile,BufRead *.js, *.html, *.css
+\ set tabstop=2
+\ set softtabstop=2
+\ set shiftwidth=2
+
+"if has('gui_running')
+"  set background=dark
+"  colorscheme solarized
+"else
+"  colorscheme Zenburn
+"endif
+"colorscheme solarized
+
+"bufferline
+"let g:bufferline_active_buffer_left = '['
+
+map <silent> <F3> :call BufferList()<CR> 
+let g:BufferListWidth = 15
