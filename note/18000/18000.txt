@@ -1013,7 +1013,6 @@ avenue   n.林荫道，道路;大街
 avoid    vt.避免;回避，躲开
 await    vt.等候，期待
 awake    vt.唤醒 vi.醒
-awful    a.令人不愉快的
 axe  斧头
 bake     vt.烤，烘，焙;烧硬
 balance  vt.使平衡;称 n.天平
@@ -1078,8 +1077,6 @@ button   n.扣子;按钮 vt.扣紧
 calm     adj.平静的;沉着的
 camp     n.野营，营地，兵营
 ax   n.斧子
-candle   n.蜡烛
-candy    n.糖果;砂糖结晶
 capital  n.资本，资金;首都
 card     n.卡片;名片
 carriage     n.客车厢;四轮马车
@@ -2913,7 +2910,6 @@ attract  vt.吸引;引起，诱惑
 attractive   a.有吸引力的
 audience     n.听众，观众，读者
 awaken   vt.vi.唤醒,醒来,唤起
-awe  v.敬畏
 babble   v.说蠢话，牙牙学语
 babe     n.小孩,缺乏经验的人
 bacon    n.咸猪肉，熏猪肉
@@ -2965,7 +2961,6 @@ cable    n.海底电报
 calf     n.小牛,小牛皮,腓,小腿
 camel    n.骆驼
 campaign     n.战役;运动
-candidate    n.候选人
 canoe    n.独木舟，皮艇，划子
 capacity     n.容量;能力;能量
 captive  n.俘虏，被监禁的人
@@ -5733,7 +5728,6 @@ bustle   n.喧闹,裙撑
 cadence  n.韵律,抑扬,调子,节奏
 calculate    vt.计算;估计;计划
 cancer   n.癌，癌症，肿瘤
-candlestick  n.烛台
 caper   v.雀跃，欢蹦
 Capitol  n.国会大厦,州议会大厦,(古罗马的)主 神殿
 carbohydrate     n.碳水化合物
@@ -10311,7 +10305,6 @@ autobiography    n.自传
 autocrat     n.独裁者
 avaricious   adj.贪婪的，贪心的
 avenger  n.复仇者
-awfuly   ad.令人畏惧的;很
 awkwardness  n.笨拙，困窘
 barbarism    n.野蛮,未开化
 barbecue     n.烤肉架，烤肉
@@ -10364,9 +10357,6 @@ bulrush  n.芦苇,香蒲,纸草
 burglary     n.盗窃 (罪)
 byword   n.谚语,格言,笑柄
 campstool    n.折椅
-candid   a.坦白的,率直的,公正的
-candour  n.公正，坦率
-candor   n.坦白,直率
 canning  n.罐头制造
 canter   n.慢跑,流浪汉
 canvass  n.细查,讨论,劝诱
@@ -11222,7 +11212,6 @@ calumny  n.诽谤，中伤
 camelia  n.茶花,山茶
 campsite     n.露营场地 ,营地
 campus   n.校园，学校场地
-candidacy    n.候选人的地位,候选资格
 canned   a.罐装的,录音的,被囚的,刻板的,
 capsize  vi.n.翻覆,倾覆
 carcanet     n.『罕』 (金质镶珠宝之)项链;项 圈
@@ -12550,7 +12539,6 @@ operetta     n.小歌剧
 optimism     n.乐观，乐观主义
 originator   n.创始人
 orison   n.祈祷
-overawe  vt.威慑
 overjoy  vt.使大喜
 overset  vt.打翻,推翻,使失败
 overtax  vt.课税过重,使负担过度
@@ -12974,7 +12962,6 @@ buttocks     n.臀部
 cabal    n.徒党,秘密结社,(尤指政治上的)阴谋
 cafeteria    n.自助食堂
 calamitous   adj.造成灾祸的
-candle-light     adj.在烛光中进行的 <聚餐等>
 canonical    adj.符合规定的，经典的
 capitulation     n.投降
 carat    n.(宝石重量单位)克拉，(金子)开
@@ -13277,7 +13264,6 @@ impropriety  n.不正当(的行为)
 impugn   v.指责，对⋯表示怀疑
 inaction     n.不活动,无为,怠惰,迟钝
 inadvertent  adj.不注意的，疏忽的
-incandescent     adj.白热的，热烈的
 incest   n.近亲相奸,乱伦
 incestuous   a.近亲相奸的,乱伦的
 incidence    n.发生，影响;入射
@@ -17190,7 +17176,6 @@ auscultation     n.听诊
 authorization    n.授权，委任状
 aviary   n.大鸟笼，鸟舍
 aweary   a.疲倦的
-awe-struck   a.充满敬畏的
 azalea   n.杜鹃花
 babyhood     n.婴儿时代,婴儿,幼稚
 backslide    vi.n.堕落,退步,背离宗教
@@ -17254,7 +17239,6 @@ calender     n.研光机
 calligraphy  n.书法
 calumnious   adj.诽谤的,中伤的
 campaigner   n.从军者,出征者,竞选者
-candelabrum  n.枝状大烛台
 capitalism   n.资本主义,资本的集中
 capon    n.阉鸡
 carafe   n.玻璃水瓶
