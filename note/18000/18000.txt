@@ -74,8 +74,6 @@ back     adv.回(原处);向后
 bad  a.坏的，恶的;严重的
 bag  n.提包，口袋，书包
 ball     n.球
-band     n.乐队;带;波段
-bank     n.银行;库;岩，堤
 basket   n.篮，篓，筐
 basketbal    n.篮球;篮球运动
 battle   vi.战斗 vt.与⋯作战
@@ -412,7 +410,6 @@ hundred  num.百，百个 n.许多
 hunt     vi.打猎
 hurry    vi.赶紧 vt.催促
 hurt     vt.使受伤;使痛心
-husband  n.丈夫
 I    pron.(主格)我
 ice  n.冰
 if   conj.假如，如果
@@ -1967,9 +1964,6 @@ average  n.平均数 a.平均的
 awhile   ad.片刻,一会儿
 backward     a.向后的;倒的 ad.倒
 badly    adv.坏;恶劣地
-banish   v.放逐，摒弃
-banner   n.旗;旗帜
-banquet  n.宴会，盛会，酒席
 bargain  n.交易 vi.议价;成交
 barrel   n.桶;圆筒;枪管
 barren   a.贫瘠的;不妊的
@@ -1987,7 +1981,6 @@ betray   vt.背叛;辜负;泄漏
 bike     n.自行车
 bitterly     ad.苦苦地;悲痛地
 blacksmith   n.铁匠
-blank    a.空白的 n.空白
 blast    n.管乐器的声音
 bloody   a.血腥的,嗜杀的,非常的,有血的
 blush    vi.脸红，害臊 n.脸红
@@ -2867,7 +2860,6 @@ yonder   a.那边的
 yours    pron.你们的(东西)
 zeal     n.热心，热情，热忱
 zone     n.地区，区域，范围
-abandon  vt.丢弃;放弃，抛弃
 abhor    v.憎恨，嫌恶
 abide    vt.遵守 vt.忍受
 ability  n.能力;能耐，本领
@@ -2915,7 +2907,6 @@ babe     n.小孩,缺乏经验的人
 bacon    n.咸猪肉，熏猪肉
 badminton    n.羽毛球
 baker    n.面包师
-banana   n.香蕉
 barley   n.大麦
 basis    n.基础，根据
 bedrom   n.卧室
@@ -2929,9 +2920,7 @@ bicycle  n.脚踏车，自行车
 birch    n.桦树，赤杨
 bishop   n.(基督教的)主教
 blackboard   n.黑板
-blanket  n.毛毯，毯子，羊毛毯
 bleed    vi.出血，流血;泌脂
-blend    vt.&vi.&n.混和
 bliss    n.福佑,天赐的福
 blot     n.污点,墨水渍
 blunt    a.钝的,坦率的,麻痹的
@@ -3843,8 +3832,6 @@ ay   n.赞成票,投赞成票者
 aye  n.赞成票,投赞成票者
 bait     n.饵;引诱物
 balm     n.香油，药膏
-banishment   n.放逐,驱逐
-banker   n.银行家
 barbarous    adj.野蛮的，残暴的
 barber   n.理发师
 bard     n.古代的游吟诗人，护马甲
@@ -5703,7 +5690,6 @@ birthplace   n.诞生地
 birthright   n.与生俱来的权力
 blackberry   n.黑莓,悬钩子
 blacken  vt.使变黑,诽谤
-blanch   v.使变白，(脸色)变苍的
 blasphemy    n.亵渎，渎神
 blemish  v.损害，玷污n.瑕疵，缺点
 blight   n.植物枯萎病v.使⋯枯萎
@@ -6021,7 +6007,6 @@ huddle   v.挤成一堆n.一堆人(杂物)
 humane   adj.人道的，慈悲的
 humanitarian     a.博爱的 n.慈善家
 humorous     a.富于幽默的，诙谐的
-husbandry    n.耕种，务农
 hustle   n.急速活动,挤,推,拥挤喧嚷
 hydrogen     n.氢
 hypocrisy    n.伪善，造作
@@ -6609,8 +6594,6 @@ bail     n.保释,把手,栅栏,桶箍
 bale     n.大包裹，灾祸，不幸
 ballon   n.气球
 ballot   n.投票,投票用纸,抽签
-bandage  n.绷带，包带
-bankrupt     a.破产的 vt.使破产
 Baptist  n.施洗者约翰,施洗者,浸信会教友
 baptize  vt.施洗礼,提炼,命名
 bawl     v.大叫，大喊
@@ -6627,7 +6610,6 @@ betimes  ad.早,及时,及早
 bier     n.棺材
 bin  n.箱柜
 bituminous   a.(含)沥青的
-bland    adj.(人)情绪平稳的，(食物)无味的
 blaspheme    vt.vi.亵渎
 blink    vi.眨眼睛
 blunder  vi.犯大错 n.大错
@@ -7357,7 +7339,6 @@ subscriber   n.签署者,捐献者,订户
 subside  v.(建筑物等)下陷，(天气等)平 息，平静
 subsist  vt.供给食物,供养
 subtlety     n.狡猾，微妙(的感情)
-suburban     adj.郊外的，市郊的
 suckle   vt.哺乳,养育,吮吸
 sultan   n.回教君主,苏丹,土耳其皇帝
 sundry   各式各样，各种的
@@ -7536,9 +7517,6 @@ backbone     n.脊椎,志气,骨干,支柱
 balk     v.阻止，妨碍
 baulk    n.障碍,错误,失败
 ballast  n.(船等)压舱物
-bandit   n.土匪，盗匪，歹徒
-bane     n.祸根
-banking  n.银行业
 barbaric     a.野蛮的,粗野的
 bathroom     n.浴室;盥洗室
 battalion    n.营,军队,集团
@@ -7556,8 +7534,6 @@ bidding  n.命令,邀请,出价
 biological   a.生物的
 bladder  n.膀胱
 blindfold    n.眼罩,障眼物
-blond    n.白肤金发碧眼的人
-blonde   a.n.金发碧眼的(女子)
 bloodshed    n.流血
 bonbon   n.小糖果
 bondman  n.奴隶
@@ -7696,7 +7672,6 @@ diploma  n.毕业文凭，学位证书
 disable  vt.使无能，使伤残
 disagree     vi.意见不同;不一致
 disaprove    vt.vi.不赞成
-disband  v.解散(团体)
 disc     n.圆盘,唱片
 disk     n.圆盘，唱片;磁盘
 discard  vt.丢弃，抛弃，遗弃
@@ -7879,7 +7854,6 @@ humidity     n.湿气;湿度
 humiliate    v.使屈辱，使丢脸
 hunch    n.直觉，预感
 Hungary  n.匈牙利
-husbandman   n.农夫,百姓
 hyacinth     n.风信子,橘红色,风信子石
 illegal  a.不合法的，非法的
 illumination     n.照明，古书上的图案、 装饰
@@ -8448,9 +8422,6 @@ baby-sitter  n.看顾小孩的人
 bacilus  n.杆状菌,细菌
 bagpipe  n.风笛
 balcony  n.阳台;楼厅，楼座
-ban  n.禁令
-bankruptcy   n.破产
-bannock  n.一种薄饼
 barter   v.以物易物，物物交换
 bask     v.晒太阳，取暖
 baste    v.倒脂油于(烤肉上，以防烤干)
@@ -9066,7 +9037,6 @@ retinue  n.侍从，随员
 reunite  vt.&vi.重新统一
 revision     n.校订,修正,修订本
 rhythm   n.韵律，格律;节奏
-riband   n.『古』 (装饰用之)缎带,丝带
 rockingchair     摇椅
 romp     n.轻易取胜
 roommate     n.室友
@@ -12046,7 +12016,6 @@ avoidance    n.避免,避开,逃避
 avowal   n.公开承认
 awakening    n.唤醒,觉醒
 backing  n.衬背,后援,支持者
-bandy    a.向外弯曲的
 bareheaded   a.不戴帽子的
 barograph    n.自动记录式气压计
 barony   n.男爵的领地
@@ -12223,7 +12192,6 @@ ducal    a.公爵的,象公爵的,公爵领地的
 egotism  n.自我中心癖,自负
 electrode    n.电极;电焊条
 elk  n.麋鹿
-embankment   n.堤岸，路基
 embodiment   n.化身，体现
 emetic   n.催吐药
 emolument    n.报酬，薪水
@@ -12503,7 +12471,6 @@ morose   adj.脾气坏的，不高兴的
 mosque   n.清真寺
 motorist     n.乘汽车者,常坐汽车的人
 motorman     n.电车 [电气化火车]驾驶员
-mountebank   n.江湖郎中，骗子
 munificent   adj.慷慨的，大方的
 musketeer    n.持步枪的士兵,步兵
 mustang  n.野马,海军行伍出身的军官
@@ -12805,7 +12772,6 @@ unthinking   a.无思想的,不留心的,无思虑的
 unutterable  adj.说不出的,非言语所能表达 的
 unwept   a.无人哀悼的,无人悲泣的
 upshot   n.结果,结局,结尾
-urban    a.城市的
 vacate   v.空出
 vanguard     n.前卫，先锋
 vellum   n.上等皮纸,皮纸文书,牛皮纸
@@ -12839,7 +12805,6 @@ woolly   a.毛茸茸的
 wording  n.印字,语法,措词
 wringer  n.绞扭的人,绞扭机器,勒索者
 aback    ad.向后地,朝后地
-abandonment  n.放弃,自暴自弃,放纵
 abatement    n.减少,减轻,缓和
 abdication   n.逊位,弃权,辞职
 aberration   n.越轨,光行差,心理失常,色差
@@ -14182,7 +14147,6 @@ intermarriage    n.通婚,异族结婚,近亲结婚
 intermixture     n.混合,混合物
 interegnum   n.无王时期，
 interogate   v.审问，审讯
-interurban   a.都市间的
 intrepidity  n.无畏
 intricacy    n.错综复杂
 inveigle     v.诱骗，诱使
@@ -14669,7 +14633,6 @@ aura     n.气味,气氛
 autopsy  n.验尸，解剖
 awl  n.(钻皮革的)尖钻
 bacterial    a.细菌的
-bandanna     n.印花大手帕
 barberry     n.伏牛花,伏牛花子
 barnacle     n.一种北极鹅,藤壶
 beautifier   n.美化者
@@ -14684,7 +14647,6 @@ billowy  a.巨浪似的,汹涌的
 bittern  n.鹭鸶,盐卤
 bitumen  n.沥青
 bizare   adj.奇异的，古怪的
-blench   v.退缩，畏缩，回避，使变白
 bluish   a.带蓝色的
 bookkeeping  n.簿记
 boorish  adj.粗野的
@@ -15397,7 +15359,6 @@ unsung   a.未被唱的,未在诗歌受歌颂的,
 unthinkable  adj.不可想象的
 upholstery   n.室内装潢品(地毯，窗帘等)
 upraise  vt.举起,提高
-urbane   adj.温文尔雅的，懂礼的
 vacilation   n.游移不定,踌躇,不果断
 vacuous  adj.发呆的，无意义的
 Vandal   n.摧残文化、艺术者;破坏他人或公
