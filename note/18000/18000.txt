@@ -269,8 +269,6 @@ exercise     n.练习
 express  vt.表示 n.快车，快递
 extend   vt.延长;扩大;致
 eye  n.眼睛;眼力;鉴赏力
-face     n.脸
-fact     n.事实;实际
 fair     adj.(头发)金色的
 fall     n.&vi.落下;跌倒
 family   n.家，家庭
@@ -356,8 +354,6 @@ great    adj.伟大的;重大的
 green    adj.绿色的
 grey     adj.灰色的
 gray     a.灰色的 n.灰色
-ground   n.地;场地;根据
-grow     vi.生长;变得;增长
 guard    n.哨兵，警卫员
 guess    v.猜
 guide    n.向导，导游者
@@ -589,7 +585,6 @@ path     n.路，小道;道路
 pay  vt.给..报酬 n.工资
 pen  n.钢笔
 people   n.人民，民族;人
-perfect  adj.极好的，完美的
 perhaps  adv.也许，可能
 person   n.人;人身;本人
 place    n.地方，地点;住所
@@ -950,7 +945,6 @@ advice   n.劝告;忠告;意见
 affair   n.事件;事情
 Africa   n.非洲
 afterward    ad.后来，以后
-agree    vt.&vi.同意，赞成
 ah   interj.啊
 aid  n.帮助，救护;助手
 aim  n.瞄准;目标;目的
@@ -1197,7 +1191,6 @@ earnest  a.认真的，诚恳的
 ease     n.安逸，熟练，轻易
 easily   ad.容易地;舒适的
 echo     vt.反射(声音等)
-effect   n.结果;影响;效果
 effort   n.努力;努力的成果
 eighteen     num.十八，十八个
 elate    vt.使兴高采烈的,使得意
@@ -1326,8 +1319,6 @@ greatly  ad.大大地，非常
 greet    vt.问候
 grief    n.悲哀，悲痛，悲伤
 grind    vt.磨(碎);磨快
-group    n.小组，群 vi.聚集
-grove    n.林子，小树林，园林
 guest    n.客人
 gulf     n.海湾;鸿沟
 gun  n.枪，炮，手枪
@@ -1440,7 +1431,6 @@ mail     n.邮件;邮递
 main     adj.主要的n.主要部分
 maintain     vt.维持;赡养;维修
 manage   vt.设法;对付
-manufacture  vt.制造 n.制造;产品
 map  n.地图;图;天体图
 marble   n.大理石
 marry    vt.娶，嫁 vi.结婚
@@ -1736,7 +1726,6 @@ Sunday   n.星期日，礼拜日
 sunshine     n.(直射)日光，阳光
 supper   n.晚餐
 support  vt.支撑;支持;维持
-surface  n.地面，表面;外表
 swallow  n.,vt.&vi.吞，咽
 sweep    vi.掠过;袭来
 swell    vi.&vt.使膨胀，隆起
@@ -1876,11 +1865,7 @@ active   a.活跃的;积极的
 adopt    vt.收养;采用;采取
 advanced     a.先进的;高级的
 adventure    n.冒险，冒险活动
-affect   vt.影响;感动
-affection    n.慈爱，爱;爱慕
 afford   vt.担负得起⋯;提供
-agreeable    a.惬意的;同意的
-agriculture  n.农业，农艺;农学
 ahead    adv.在前面，在前头
 alas     int.唉，哎呀
 aloud    ad.出声地，大声地
@@ -1898,7 +1883,6 @@ appeal   vi.&n.呼吁;申述
 appetite     n.食欲，胃口;欲望
 application  n.请求，申请;施用
 apron    n.围裙
-area     n.地区
 argument     n.辩论;争论，论据
 arise    vi.出现;由⋯引起
 armor    n.盔甲
@@ -2149,7 +2133,6 @@ excite   vt.使兴奋;使激动
 exclaim  vi.呼喊;惊叫
 expose   vt.使暴露;揭露
 extremely    ad.极端，极其，非常
-factory  n.工厂，制造厂
 famine   n.饥荒;严重的缺乏
 fatal    a.致命的;命运的
 favourable   a.有利的;赞成的
@@ -2209,7 +2192,6 @@ graze    vi.喂草;放牧(牲畜)
 Greek    a.希腊的 n.希腊人
 grieve   vt.使悲痛 vi.悲痛
 groan    vi.哼，呻吟 n.呻吟
-growth   n.增长;增长量;生长
 guilty   a.内疚的;有罪的
 ha   interj.哈;嘿(惊异)
 habit    n.习惯;习性
@@ -2555,7 +2537,6 @@ rust     n.锈 vi.生锈，氧化
 sacred   a.上帝的;神圣的
 salary   n.薪金，薪水
 sandy    n.沙的，含沙的
-satisfaction     n.满意;快事;赔偿
 savings  n.储金
 scare    vt.惊吓 vi.受惊
 scarlet  n.猩红色 a.猩红的
@@ -2794,7 +2775,6 @@ adorn    v.装饰
 African  a.非洲的 n.非洲人
 agent    n.代理人，代理商
 agony    n.极度痛苦
-agricultural     a.农业的
 airport  n.机场，航空站
 ambitious    a.有雄心的;热望的
 amendment    n.改正，修正
@@ -2807,8 +2787,6 @@ anyway   ad.无论如何
 anywhere     ad.在什么地方
 apparent     a.表面上的;明显的
 appointment  n.任命;约定，约会
-Arabia   n.阿拉伯
-Arabian  adj.阿拉伯的
 array    vt.装扮 n.队列;排列
 arrest   vt.逮捕，拘留;阻止
 ashore   ad.在岸上，上岸
@@ -3319,7 +3297,6 @@ pavement     n.(英)人行道
 peal     n.隆隆声,编钟响亮的钟声
 peasant  n.农民
 pepper   n.胡椒，胡椒粉
-perfection   n.尽善尽美;无比精确
 perfume  n.香味，芳香;香料
 permanent    a.永久的，持久的
 permission   n.允许，许可，同意
@@ -3655,12 +3632,10 @@ admision     n.允许进入;承认
 adoption     n.收养;采纳，采取
 advertise    vt.通知 vi.登广告
 afar     ad.由远处,遥远地
-affectionate     adj.挚爱的
 affirm   vt.断言，批准;证实
 afflict  vt.使痛苦,折磨
 affliction   n.痛苦，折磨
 agency   n.经办;代理;代理处
-agreement    n.协定，协议;同意
 aircraft     n.飞机，飞行器
 airy     a.空气的,幻想的,轻快的
 aisle    n.走廊,侧廊
@@ -3845,7 +3820,6 @@ deceit   n.欺骗，欺诈
 decoration   n.装饰,装饰品
 dedicate     vt.奉献;献身
 deepen   vt.加深 vi.深化
-defect   n.缺点，缺陷，欠缺
 defiance     n.蔑视,挑衅
 delegate     n.代表，委员，特派员
 deliverance  n.救出,救助,释放,判决
@@ -3927,7 +3901,6 @@ exquisite    adj.精致的，近完美的
 extension    n.延长部分;伸展
 extensive    a.广阔的;广泛的
 extract  vt.取出;榨取 n.摘录
-faculty  n.才能，能力;系，科
 failure  n.失败;失败的人
 fairyland    n.仙境
 feat     n.功绩，壮举
@@ -4002,10 +3975,6 @@ Greece   n.希腊
 grievous     adj.严重伤害的，引起痛苦的
 grim     a.冷酷无情的，严厉的
 groom    n.马夫，新郎
-growl    vi.(狗等)嗥叫;咆哮
-grudge   v.吝啬，不满.
-gruff    adj.粗暴的
-grumble  vi.抱怨，发牢骚
 guarantee    n.保证;担保物
 guileless    a.不狡猾的,诚实的
 gum  n.口香糖;树胶
@@ -4055,7 +4024,6 @@ illness  n.病，疾病
 illustrate   vt.(用图等)说明
 illustrious  adj.著名的，显赫的
 impatient    a.不耐烦的，急躁的
-imperfect    a.有缺点的,半完成的,减弱的,
 implement    n.工具，服装 vt.贯彻
 implore  vt.乞求，恳求，哀求
 impress  vt.印;留下极深的印象
@@ -4138,7 +4106,6 @@ mane     n.鬃毛
 manger   n.马槽,牛槽,挡水板
 manifold     adj.繁多的，多种的
 manly    a.男子气概的，果断的
-manufacturer     n.制造商;制造厂
 mar  v.破坏，损伤
 margin   n.页边的空白;栏外
 mariner  n.水手，海员
@@ -4349,7 +4316,6 @@ sally    n.突击,出击,远足
 salvation    n.得救，拯救
 sanctuary    n.圣堂，避难所
 sandwich     vt.夹入，挤进
-satisfactory     a.令人满意的，良好的
 sausage  n.香肠，腊肠
 saviour  n.救助者,救世主,救星
 savior   n.救助者,救世主,救星
@@ -4499,7 +4465,6 @@ unaware  a.不知道的
 uncomfortable    a.不舒服的;不自在的
 uncover  vt.&vi.揭开...的盖子
 undergo  vt.经历，经受，忍受
-underground  adj.地下的
 undo     vt.解开，打开;取消
 uneasy   a.不安的;拘束的
 unfit    adj.不合适的
@@ -4769,7 +4734,6 @@ dial     n.钟面;拨号盘 vt.拨
 dilate   v.(身体某部位)张大，扩大
 dimple   n.酒涡，笑靥
 dipper   n.使浸渍者,现影液容器,汲取的人
-disagreeable     adj.讨厌的、乖戾的
 discord  n.不调和,不和
 discreet     adj.言行谨慎的，小心的
 disposal     n.丢掉，处理，销毁
@@ -4835,7 +4799,6 @@ eyebrow  n.眉毛
 eyeglass     n.眼镜
 eyelid   n.脸
 fabric   n.织物，纺织品;结构
-faction  n.派别，宗派，小集团
 failing  n.失败,缺点,过失
 faithless    a.无信的,不忠实的
 falcon   n.猎鹰
@@ -4907,7 +4870,6 @@ gravy    n.肉汁,肉汤,不法利润
 grocery  n.食品杂货店
 groove   n.槽 vt.开槽于
 grope    vi.(暗中)摸索，探索
-grown-up     a.已经成人的
 guinea   n.英国往昔的金币
 gunpowder    n.黑色火药;有烟火药
 gym  n.((口语))体育馆，健身房
@@ -5115,7 +5077,6 @@ pitiful  a.慈悲的,可怜的,同情的
 pitiless     a.无情的,冷酷的,无怜悯心的
 planter  n.种植者,耕作者,殖民者
 platter  n.大浅盘
-playground   n.操场，运动场
 plea     n.请愿，请求，恳求
 poetic   a.诗的
 poise    v.使相等，使平衡n.泰然自若，信心
@@ -5634,7 +5595,6 @@ debtor   n.负债者
 decade   n.十年，十年期
 deceitful    a.欺诈的
 declaration  n.宣布，宣言;申诉
-defective    a.有缺陷的,欠缺的
 define   vt.给⋯下定义;限定
 delicacy     n.细软,精致,精美的食品,娇气,
 demeanour    n.行为,举止
@@ -5696,8 +5656,6 @@ durable  a.耐久的，耐用的
 ecology  n.生态学;个体生态学
 economy  n.经济;节约，节省
 eddy     n.漩涡，涡流
-effective    a.有效的;有影响的
-effectual    a.有效果的,会应验的,有效的
 elaborate    a.复杂的;精心制作的
 electricity  n.电，电学;电流
 elementary   a.基本的;初级的
@@ -5738,8 +5696,6 @@ exterior     a.外部的;对外的
 extinct  a.绝种的;熄灭了的
 extravagant  a.奢侈的;过度的
 exult    v.欢腾，喜悦
-facility     n.设备;容易;便利
-factor   n.因素;因子，系数
 fairly   ad.相当;公平地
 farce    n.闹剧，胡闹
 farmyard     n.农家庭院
@@ -5758,7 +5714,6 @@ flaw     n.缺点，瑕疵;裂隙
 fleecy   a.以羊毛盖上的,羊毛似的,蓬松的
 flexible     a.易弯曲的;灵活的
 flounder     v.挣扎，艰苦地移动
-focus    vi.聚焦，注视 n.焦点
 forcible     a.强制的,强迫的,有气力的
 forego   vt.放弃,在...之前,居先
 forgetfulness    n.健忘症;忘却
@@ -5848,7 +5803,6 @@ incredible   a.难以置信的，惊人的
 indiferent   a.冷漠的;不积极的
 indirect     a.间接的;不坦率的
 infamous     adj.恶名昭彰的，邪恶的
-infect   vt.使受影响
 infernal     adj.地狱的，可恶的
 ingenuity    n.机灵;设计新颖
 iniquity     n.邪恶，不公正
@@ -5927,7 +5881,6 @@ massive  a.粗大的;大而重的
 matchless    a.无敌的,无比的
 mattress     n.床垫
 maxim    n.格言，普遍真理
-meagre   adj.瘦的，贫乏的
 meager   adj.贫乏的，削瘦的
 means    n.方法，手段，工具
 mechanical   a.机械的;力学的
@@ -6382,7 +6335,6 @@ audible  a.听得见的
 austere  adj.朴素的，(人)正经的
 available    a.可利用的;通用的
 avert    v.避免,避开
-background   n.背景，后景，经历
 bail     n.保释,把手,栅栏,桶箍
 bale     n.大包裹，灾祸，不幸
 ballon   n.气球
@@ -6691,9 +6643,6 @@ golf     n.高尔夫球
 grab     vt.&vi.急抓;抢
 graft    v.嫁接，移植，n.贪污
 grandeur     n.壮丽，伟大
-grotesque    adj.怪诞的，古怪的
-grub     n.幼虫,穷文人
-grunt    vi.作呼噜声;咕哝
 guise    n.外观,伪装
 habitual     a.习惯性的，惯常的
 haggard  adj.憔悴的，消瘦的
@@ -6742,7 +6691,6 @@ indicative   a.指示的;陈述的
 indispensable    a.必不可少的，必需的
 inert    adj.惰性的，行动迟钝的
 inexorable   adj.不为所动的，坚决不变的
-infection    n.传染,影响,传染病
 infer    vt.推论，推断;猜想
 infest   v.骚扰，扰乱
 influenza    n.流行性感冒
@@ -6942,7 +6890,6 @@ precarious   adj.危险的
 precaution   n.预防;警惕
 precision    n.精确，精密，精密度
 prediction   n.预言，预告;预报
-preface  n.序言，前言，引语
 prerogative  n.特权
 presentation     n.介绍;赠送;呈现
 preservation     n.保存，储藏;保持
@@ -7225,7 +7172,6 @@ acquit   vt.开释,释放,完成,表现
 adder    n.欧洲产的小毒蛇,北美产的无毒小蛇,
 adjourn  vi.延期,休会,换地方
 advent   n.到来，来临
-affectation  n.做作，虚假
 affinity     n.密切关系，吸引力
 aggressive   a.侵略的;好斗的
 akin     a.血族的,同族的,同种的
@@ -7284,7 +7230,6 @@ battalion    n.营,军队,集团
 battlement   n.城垛,防卫墙
 beginer  n.初学者，生手
 bemoan   vt.惋惜,认为遗憾,哀叹
-benefactor   n.行善者，捐助者
 benevolence  n.善心，仁心
 bereave  v.丧亲，夺去
 berth    v.(船)停泊
@@ -7408,7 +7353,6 @@ daydream     n.白日梦
 deadlock     n.僵局，僵持
 debase   v.贬低，贬损
 deception    n.欺骗
-deface   vt.损伤外观
 defiant  a.挑衅的,目中无人的
 deformity    n.畸形;残废
 defraud  vt.欺骗
@@ -7427,7 +7371,6 @@ dioxide  n.二氧化物
 diphtheria   n.白喉
 diploma  n.毕业文凭，学位证书
 disable  vt.使无能，使伤残
-disagree     vi.意见不同;不一致
 disaprove    vt.vi.不赞成
 disc     n.圆盘,唱片
 disk     n.圆盘，唱片;磁盘
@@ -7641,7 +7584,6 @@ inducement   n.引诱物
 industrial   a.工业的;产业的
 infalible    adj.绝不会错的，绝对可靠的
 infamy   n.恶名昭彰
-infectious   a.传染的;感染性的
 inference    n.推论;推断的结果
 infidel  n.不信教者，异教徒
 inflection   n.屈曲,变调,音调变化
@@ -8360,7 +8302,6 @@ earldom  n.伯爵的身分
 earnestness  n.诚挚
 ecstatic     adj.狂喜的，心花怒放的
 eel  n.鳗鱼,鳝鱼
-efface   v.擦掉，抹去
 eject    vt.逐出，排斥;喷射
 electrify    vt.使触电;使充电
 elemental    a.基本的;自然力的
@@ -8393,11 +8334,8 @@ expiration   n.期满，终止
 extant   adj.现存的，传世的
 extenuate    v.掩饰(罪行)，减轻罪过
 eyeball  n.眼球
-facial   n.美颜术,脸部按摩术
-facile   adj.容易做的，肤浅的
 familiarity  n.精通，亲近，不拘礼仪
 fatherles    a.无父的
-faucet   n.水龙头
 fealty   n.效忠
 feathery     a.羽状的
 fencing  n.剑术，击剑法
@@ -8443,7 +8381,6 @@ gooseberry   n.醋栗树,醋栗,醋栗酒
 gourd    n.葫芦，脑瓜
 graphite     n.石墨，石墨电极
 grisly   adj.恐怖的，可怕的
-gruel    n.稀粥
 guitar   n.吉他，六弦琴
 gulp     v.吞食，咽下
 gunner   n.炮手,炮长,带枪猎人
@@ -8643,7 +8580,6 @@ otter    n.水獭,水獭皮
 oval     a.卵形的 n.卵形
 overboard    ad.自船上落下,在船外
 overcast     a.阴天的,阴暗的,愁闷的
-overgrown    a.发育过度的,生长过大的,不合 身的
 overnight    ad.一夜;突然
 oversea  a.海外的,国外的
 overshadow   v.遮蔽，使显得不重要
@@ -8898,7 +8834,6 @@ tunic    n.束腰外衣
 twofold  a.两倍的,两重的
 tyranical    adj.暴虐的，残暴的
 ulcer    n.溃疡，腐烂的事物
-unaffected   adj.自然的，不矫揉造作的
 unbelief     n.不信,疑惑,不信仰
 unctuous     adj.油腔滑调的
 underbrush   n.树林下的草丛,丛林
@@ -8912,7 +8847,6 @@ unfavorable  a.不宜的,不理想的
 unfruitful   a.无效果的,徒然的,空的
 unprecedented    a.空前的
 unreal   adj.非真实存在的,想像的,虚构的,非
-unsatisfactory   a.不能令人满意的
 unscrupulous     adj.肆无忌惮的，无天理 的
 untiring     a.不疲倦的,不懈的,不屈不挠的
 uphil    a.上坡的,向上的
@@ -9290,7 +9224,6 @@ forecastle   n.前甲板,前甲板下面的水手舱,
 forefinger   n.食指
 forefoot     n.前脚,龙骨的前端部
 foregone     a.先前的,过去的,已知的
-foreground   n.前景,最显著的位置
 forelock     n.额发,额毛,栓,销
 forgery  n.伪造(物)
 forthcoming  a.即将到来的;现有的
@@ -9322,7 +9255,6 @@ graveyard    n.墓地
 greenwood    n.绿磷,未枯干的树
 grimace  v.做鬼脸，面部歪扭
 grit     n.沙粒，决心，勇气v.下定决心，咬紧牙关
-grovel   v.摇尾乞怜，奴颜婢膝
 gullet   n.食道,咽喉,海峡
 gut  n.勇气,剧情,内容,海峡,肚子,
 guy  n.(铁塔等的)支索，牵索
@@ -9369,7 +9301,6 @@ imitative    a.喜模仿的,伪造的,摹拟的
 immature     a.不成熟的,未完全发展的
 immigration  n.外来的移民,移居入境
 imp  n.小鬼，顽童
-imperfection     n.不完全,不完备,缺点
 impersonal   a.客观的,和个人无关的,非人称 的
 impetus  n.推动力，刺激
 imposibility     n.不可能之事,不可能
@@ -9381,7 +9312,6 @@ indemnity    n.赔偿,补偿,保护
 indiscreet   adj.不谨慎的，无礼的
 indisposed   adj.不愿意的，身体不适的
 indistinct   a.不明了的,朦胧的
-ineffectual  a.无效的,无益的,白费的
 inequality   n.不平等,不同,不平均
 infinitive   n.不定词
 infirm   a.弱的,虚弱的,柔弱的
@@ -9511,7 +9441,6 @@ obsolete     adj.废弃的，过时的
 ochre    n.赭石,赭色
 ocher    n.赭土,赭石
 ofttimes     ad.经常
-olfactory    adj.嗅觉的
 opal     n.蛋白石,猫眼石
 optical  a.眼的;光学的
 oratory  n.演讲术，祈祷室，小礼拜堂
@@ -9638,7 +9567,6 @@ rime     n.白霜,霜 (hoarfrost)
 robust   adj.健壮的
 rodeo    n.牧马骑术表演
 roller-skate     vi.用滚轮溜冰
-Romanesque   adj.罗马式的
 roofing  n.屋顶盖法
 roost   v.栖息，鸟巢
 rouge    n.胭脂，口红
@@ -9717,7 +9645,6 @@ stupefy  v.(使)茫然，吓呆
 stylish  a.现代风格的,流行的,潇洒的
 subjunctive  n.假设法
 subterranean     adj.地下的
-suffocate    v.(使)窒息而死
 sulky    adj.呕气的，生气的
 sully    v.玷污，污染
 sunshade     n.遮阳伞,天棚,帽遮
@@ -10103,7 +10030,6 @@ dike     n.堤防
 dyke     n.塘
 dilapidated  adj.破旧的，倒塌的
 direful  adj.可怕的，可怖的
-disagreement     n.不一致;争论
 discernment  n.眼光、洞察力
 discolour    vt.(使)变色，褪色
 discolor     vt.使⋯变 [褪]色,弄脏⋯的颜色
@@ -10111,14 +10037,12 @@ discomfit    v.使懊恼、难堪
 discomfiture     n.狼狈，难堪
 disgorge     v.呕出，(水)流走
 disincline   vt.使讨厌,不感兴趣
-disinfect    vt.消毒
 disorganize  vt.破坏阻织,搅乱秩序的,使 混乱,
 dispensary   n.施药所,施疗院,诊疗所
 disposses    vt.剥夺,使失去,逐出
 copperas     n.绿矾
 dispraise    vt.毁谤,贬损,谴责
 disprove     vt.证明...是不对的,提出...的反 证,
-dissatisfaction  n.不满，不平
 dissemble    v.隐藏、掩饰(感受，意图)
 dissipation  n.消散,分散,浪费
 distillation     n.蒸馏
@@ -10176,7 +10100,6 @@ expulsion    n.驱逐，开除
 extinction   n.熄灭，消灭
 extortion    n.强取
 extraordinarily  ad.非常地，特别地
-facade   n.建筑物的正面，外表
 fanciful     a.奇怪的,稀奇的,想像的
 fane     n.寺院,神庙
 farrier  n.蹄铁匠,马医
@@ -10301,7 +10224,6 @@ incredulity  n.不易相信,深疑,怀疑心
 indentation  n.锯齿状，缺口
 indicator    n.指示者，指示物
 indolence    n.怠惰,不痛
-ineffective  a.无效的
 inexplicable     adj.无法解释的，难理解的
 infliction   n.(强加于人身的)痛苦，刑罚
 influential  a.有影响的;有权势的
@@ -10756,7 +10678,6 @@ antislavery  n.反对奴隶制度
 apoplexy     n.中风
 appelation   n.名称，称呼
 aquatic  adj.水生的，水中的
-arable   adj.可耕的，适合种植的.
 armpit   n.腋窝
 artichoke    n.朝鲜蓟
 assesment    n.估定;查定;估计数
@@ -10872,9 +10793,6 @@ concoct  v.调制，捏造
 concur   vi.意见相同,一致,互助
 concurrence  n.赞同,意见一致,协力
 concussion   n.脑震荡，震动
-confection   n.甜食，糖果
-confectioner     n.糖果制造人,糖果店
-confectionery    n.糕饼,糕饼制造,制饼厂
 confinement  n.限制,禁闭,坐月子
 congressman  n.国会议员,众议院议员
 connective   a.连接着,连接的
@@ -10918,7 +10836,6 @@ debonair     adj.殷勤的，快活的，温雅的
 decomposition    n.腐烂，崩溃
 deduction    n.减除,扣除,减除额,推论
 defame   v.诽谤，中伤
-defector     n.背叛者,叛离者
 definitive   n.限定词
 Delphic  adj.神谕(似)的;暧昧的,含混的
 dent     n.缺口，凹痕，v.弄凹
@@ -10945,7 +10862,6 @@ directory    n.姓名地址录;董事会
 disalow  vt.不许,不准,驳回
 disconnect   vt.分离,不相连,拆开
 disembark    vt.vi.(使)起岸,(使)登陆
-disinfectant     n.消毒剂
 disloyalty   n.不忠实,不信,不义
 disproportion    n.不均衡
 dissection   n.解剖,切开
@@ -11004,7 +10920,6 @@ exportation  n.输出,出口
 expostulate  v.(对人或行为的)抗议，告 诫
 extricate    v.拯救，救出
 exultant     adj.愉悦的
-factious     adj.有派性的，偏见的
 fad  n.(流行一时的)狂热，时尚
 faery    n.仙子,仙境
 fallacy  n.谬误，错误
@@ -11068,7 +10983,6 @@ greasy   a.油腻的,滑溜溜的,泥泞的
 greenhouse   n.温室，玻璃暖房
 gray-headed  adj.白发的
 grime    n.尘垢,煤尘,污点
-grower   n.栽培者,生长物
 guerdon  n.报酬,奖赏
 guidepost    n.路标,路牌
 gurgle   n.汩汩声
@@ -11242,7 +11156,6 @@ overseer     n.监督,工头
 overweight   n.超过重量,过重,优势
 oxide    n.氧化物
 padlock  n.挂锁,关闭,禁止进入
-paleface     n.白人
 pallet   n.草铺,简陋的小床,调色板,棘爪
 panoply  n.全副穿戴，全副甲胄
 pantomime    n.哑剧
@@ -11272,7 +11185,6 @@ planetarium  n.行星仪,天文
 planetary    a.行星的
 ploughman    n.农夫
 plowman  n.农夫
-pluperfect   n.过去完成时
 poesy    n.诗,诗歌,作诗法,诗才,韵文
 ponge    n.茧绸
 pooh     int.轻视之声
@@ -11433,7 +11345,6 @@ subdivide    vt.把⋯再分
 suborn   v.收买，贿赂
 subsidy  n.补助金
 suckling     n.乳儿,乳臭未干的小子
-suffocation  n.窒息
 suicide  n.&vi.&vt.自杀
 suitcase     n.小提箱，衣箱
 sunburn  n.晒黑，晒黑处
@@ -11568,7 +11479,6 @@ admiralty    n.海军上将的地位或职权,海军 部,
 admixture    n.混合,混合物
 adulation    n.谄媚,奉承,阿谀
 adventitious     adj.偶然的，外来的
-affected     adj.不自然的，假装的
 affiance     n.信托,婚约
 affidavit    n.宣誓书
 affix    vt.使附于,署名,粘贴
@@ -11577,7 +11487,6 @@ aforesaid    a.上述的,前述的
 aft  ad.在船尾
 aggregation  n.聚集，总合
 aggressor    n.侵略者,侵略国,攻击者
-agriculturist    n.农学家
 albatross    n.信天翁
 alchemist    n.炼丹家
 allotment    n.分配,配给的土地,命运
@@ -11823,7 +11732,6 @@ fabricate    vt.制作，组合;捏造
 fallacious   adj.欺骗的，谬误的
 fancier  n.爱好者
 far-reaching     adj.影响深远的
-fecundity    n.多产,丰饶,肥沃
 federalist   n.联邦主义者
 felony   n.重罪
 ferrule  n.金属手杖等的,金属环,套圈
@@ -11881,8 +11789,6 @@ grandiose    adj.浮夸的，夸大的
 greensward   n.草皮
 grizzled     a.灰色的,头发斑白的
 groin    n.腹股沟
-groundles    adj.无根据的;无理由的;无缘由的
-grumpy   adj.脾气暴躁的
 guilder  n.基尔德,基尔德银币,旧荷兰
 haft     n.柄，把柄
 halibut  n.大比目鱼
@@ -11927,7 +11833,6 @@ incision     n.切口，切割
 incisor  n.门牙
 incompetent  adj.无能力的不能胜任的
 incompresible    a.不能压缩的
-incongruous  adj.不调和的，不相称的
 incorigible  adj.积习难改的，不可救药 的
 inculcate    v.灌输，谆谆教诲
 incumbent    n.在职者，现任者
@@ -12029,7 +11934,6 @@ manikin  n.侏儒，时装模特儿
 manipulate   vt.操作;控制，手持
 manlike  adj.似人的
 jab  vt.vi.刺,戳,猛击
-manufactory  n.制造厂,工厂
 marmot   n.土拨鼠
 masonic  a.共济会会员的
 materially   ad.实质上,重大,物质上
@@ -12189,7 +12093,6 @@ rectory  n.教区长的管区
 recurence    adj.重现，反覆
 redwod   n.美国杉树,红色木材,红色木质的树
 reelect  vt.重选,改选
-refectory    n.餐厅,休息室
 refractory   adj.难驾驭的，(病)难治的
 refrigeration    n.冷却,冷藏,冷冻
 refulgent    adj.辉煌的，灿烂的
@@ -12487,7 +12390,6 @@ broomstick   n.帚柄
 brushwood    n.柴,柴枝,草丛
 bullion  n.金条，银条
 bunion   (C)拇趾粘液囊肿大,拇囊肿
-burlesque    n.讽刺或滑稽的戏剧
 buttermilk   n.白脱牛奶,酪浆
 buttocks     n.臀部
 cabal    n.徒党,秘密结社,(尤指政治上的)阴谋
@@ -12583,7 +12485,6 @@ debilitate   v.使衰弱
 declamation  n.高声说话，高调
 declination  n.倾斜，衰微
 declivity    n.倾斜面，斜坡
-defection    n.脱党，变节
 deferential  a.恭敬的
 deist    n.自然神论信仰者
 delineate    v.描画
@@ -12672,8 +12573,6 @@ expunge  v.删除
 extirpation  n.消灭,根除,毁灭
 extraction   n.抽出;提取法;摘要
 exuberance   n.茂盛,健康,丰富
-facetious    adj.轻浮的，好开玩笑的
-factitious   adj.人为的，不真实的
 familiarize  vt.使熟悉,使熟知,使通俗化
 fanatical    a.狂热的;入迷的
 fanaticism   n.狂热盲信
@@ -12733,7 +12632,6 @@ gratuitous   adj.无缘无故的，免费的
 greenback    n.美钞,背部为绿色之动物
 grenadier    n.手榴弹兵,掷弹兵
 grotto   n.洞穴，洞室
-grouse   n.松鸡v.牢骚，诉苦
 guardianship     n.监护,保护,守护
 guillotine   n.断头台
 gyve     n.脚镣,手铐
@@ -12788,7 +12686,6 @@ incest   n.近亲相奸,乱伦
 incestuous   a.近亲相奸的,乱伦的
 incidence    n.发生，影响;入射
 incompatible     a.不相容的
-incongruity  n.不一致
 inconsiderable   a.不足取的,琐屑的
 inconsiderate    adj.不体谅别人的
 incontinence     n.无节制,失禁
@@ -12884,7 +12781,6 @@ macaroni     n.通心面,纨绔子弟
 magisterial  adj.有权威的，威风的
 magistracy   n.地方保安官的职位
 magnesia     n.苦土,氧化镁
-malefactor   n.罪人,犯人,坏人
 malevolence  n.恶意,狠毒
 malevolent   adj.有恶意的，恶毒的
 mango    n.芒果
@@ -13191,7 +13087,6 @@ unchristian  adj.非基督教徒的;反基 督精神的;
 unconditional    a.无条件的,无限制的,绝 对的
 unconsciousness  n.无意识,意识不清,人 事不省
 unction  n.注油,涂油式,津津有味,虚情假意,
-undergrowth  n.下层丛林,生于大树下的矮 树
 unearth  v.挖出，发现
 unexampled   adj.空前的，无前
 unfetered    adj.无忧无虑的
@@ -13329,7 +13224,6 @@ beefsteak    n.牛排
 beetling     a.突出的
 begirt   v.begird的过去式.过去分词
 begrime  vt.弄脏
-benefactress     n.女施主,女恩人
 benevolent   adj.慈善的，好意的
 benignity    n.温和，仁慈
 besprent     a.撒满的
@@ -13479,7 +13373,6 @@ devoir   n.本分,义务,敬意
 diagnose     vt.诊断(疾病)
 digit    n.数字,位数,指头
 dilatory     adj.慢吞吞的，磨蹭的
-disafected   adj.(政治上)不满的，叛离 的
 disaprobation    n.不答应,不赞成,非 难
 disaray  n.混乱，漫无秩序
 disavow  vt.否认,否定,抵赖
@@ -13593,7 +13486,6 @@ grandparent  n.祖父或祖母,祖父母
 greed    n.贪心，贪婪
 greeness     n.绿色,新鲜,未熟
 grog     n.掺水烈酒
-groundwork   n.地基,基础,根据
 gunwale  n.『航海』舷缘,舷侧上缘
 halcyon  adj.平静的，愉快的
 haughtiness  n.傲慢
@@ -13887,7 +13779,6 @@ pugnacious   adj.好斗的
 puncheon     n.一种容量为72至120加仑之大桶
 pursuance    n.追赶,实行,从事
 pursuivant   n.纹章院官员,随从
-putrefaction     n.腐坏，腐败
 quadrangle   n.四边形
 quadrille    n.四人用四十张纸牌玩的牌戏,
 quagmire     n.沼泽地，困境
@@ -13903,7 +13794,6 @@ reconoitre   vt.vi.侦察,勘探
 recrimination    n.揭丑,反责
 recross  vt.再横过;再横渡
 redness  n.红,红色
-refection    n.便餐,点心,茶点,恢复体力
 reimburse    v.偿还
 renegade     n.叛教者，叛徒
 reprehensible    adj.应受谴责的
@@ -14099,7 +13989,6 @@ adulteres    n.奸妇
 adulterous   a.通奸的,不贞的
 agenda   n.议程
 aggravation  n.更恶化,加厉,恼怒
-aground  ad.搁浅地,地面上
 ahoy     int.喂
 airship  n.飞艇,飞船
 albumin  n.蛋白质,蛋白素
@@ -14122,7 +14011,6 @@ architrave   n.线脚,框缘,楣梁
 aria     n.独唱曲，咏叹调
 arraignment  n.提讯,传问,责难
 arterial     a.动脉的,动脉状的
-artifact     n.制造物;人工制品
 ascetic  adj.禁欲的n.苦行者
 assort   vt.分类,配合
 asthma   n.哮喘症
@@ -14341,7 +14229,6 @@ flighty  adj.轻浮的，反复无常的
 flowerpot    n.花盆,花钵
 flyer    n.飞鸟,飞行物,飞行员,飞跳,传单,
 flier    n.飞行者,快船,快车
-focal    a.焦点的,在焦点上的
 foist    vt.偷偷插入,使混入,硬卖给
 forethought  n.考虑将来,深虑,先见
 formulary    n.公式集,处方一览表,定式
@@ -14726,7 +14613,6 @@ senescence   n.老朽,衰老
 sentimentalist   n.容易感伤的人,多愁善感的人,感情
 serrated     adj.呈锯齿状的
 setter   n.安放者,镶嵌者,排字工人
-shamefaced   a.害羞的,谦逊的,不惹眼的,羞耻 的
 shard    n.(陶器等)碎片，破片
 shaving  n.刮,修胡须,削
 shay     n.轻便马车
@@ -14768,7 +14654,6 @@ stoma    n.细孔,口,气孔
 stomacher    n.三角胸衣
 stopper  n.阻止的人,木塞,制止器
 strikingly   adv.显著地;引人注目地
-stupefaction     n.麻醉,昏睡,昏迷
 stymie   v.妨碍，阻挠
 subversive   adj.颠覆性的，破坏性的
 sulphuric    adj.硫磺的,含多量硫磺的
@@ -14876,7 +14761,6 @@ adjutant     n.(军队的)副官，助手
 afeared  a.恐惧的
 affiliation  n.入会，加入
 agglomeration    n.结块,凝聚,块
-agrarian     a.有关土地的,耕地的
 aide-de-camp     n.副官,侍从武官
 airtight     adj.密封的
 akimbo   a.两手叉腰的
@@ -14902,7 +14786,6 @@ apostrophe   n.书写中撇号(')(表示省略或所 有格)
 apotheosis   n.神化，典范
 appelant     n.上诉人
 apposite     adj.适当的，恰切的.
-arabesque    n.蔓藤图饰
 arbitress    n.女仲裁人
 archaic  a.已废的,古老的,古代的
 archetype    n.原型，典型
@@ -14930,7 +14813,6 @@ battledore   n.羽毛球拍
 bayou    n.海湾,支流,河口
 bedraggled   adj.(衣服、头发等)弄湿的，凌 乱不堪的
 behemoth     n.巨兽
-benefaction  n.善行,恩惠,施舍
 berserk  adj.狂怒的，疯狂的
 bilge    v.鼓账，突出，(船底)穿洞
 billingsgate     n.伦敦的鱼市场,粗暴话,骂人话
@@ -15105,10 +14987,8 @@ disavowal    n.否认,否定,拒绝
 discernible  a.看得清的;辨别得出的
 discourtesy  n.无礼,无礼貌,粗卤的言行
 disfavor     n.厌恶,不悦,失宠
-disgruntle   vt.使不高兴
 disilusion   n.觉醒 vt.使觉醒
 disinclination   n.不起劲,不感兴趣,厌 恶
-disinfection     n.消毒
 disrobe  vt.脱去衣服,使脱光
 disruption   n.分裂,崩溃,瓦解
 dissemination    n.散播,传播,普及
@@ -15170,7 +15050,6 @@ extrinsic    adj.外在的，外部的
 exude    v.使慢慢流出，四溢
 eyelash  n.睫毛
 Fabian   a.费边式的,拖延时间的,
-facet    n.面;方面
 fake     n.假货，膺品 a.假的
 falsity  n.虚伪,错误
 fatalism     n.宿命论
@@ -15715,7 +15594,6 @@ anthropoid   adj.像人类的，类人猿的
 anthropomorphic  a.神人同形同性论的
 aplomb   n.沉着，镇静
 apothegm     n.格言,箴言
-Arabic   n.阿拉伯语
 argot    n.隐语,暗语,暗号
 argumentative    a.好辩的,爱穷根究理 的,争论的
 arithmetical     a.算术的,算术上的
@@ -15969,8 +15847,6 @@ gosling  n.小鹅，年轻无知的人
 gourmet  n.美食家
 gratuity     n.赏钱，小费
 gregarious   adj.群居的，爱社交的
-grouchy  a.不高兴的,不平的
-gruesome     adj.令人毛骨悚然的，恶心的
 gustatory    a.尝味的,味觉的
 hallway  n.走廊
 hank     n.一束,一卷,一仔
@@ -16084,7 +15960,6 @@ libido   n.性欲，生命力
 liegeman     n.臣子
 ligature     n.绑缚之物(尤指系住血管以免失血 的线)
 limpet   n.帽贝,坚守岗位的职员
-liquefaction     n.液化,溶解,液化状态
 lira     n.里拉
 lissome  a.柔软的,敏捷的
 literacy     n.读写能力,识字,精通文学
@@ -16518,7 +16393,6 @@ adolescent   n.青少年(此处是类比)
 adorable     adj.迷人的，可爱的
 afflatus     n.一阵风，(诗人等的)灵感
 aggrandize   v.增大，扩张
-agronomist   n.农学家
 almoner  n.施赈人员
 alpha    n.希腊字母的第一个字母,最初,
 amalgam  n.混合物
@@ -16559,7 +16433,6 @@ azalea   n.杜鹃花
 backslide    vi.n.堕落,退步,背离宗教
 banal    adj.陈腐的
 baptistery   n.洗礼所 [堂]
-battleground     n.战场,战地
 bawdy    adj.淫猥的、下流的
 bayberry     n.月桂树的果实
 bedaub   v.弄污，乱涂，过分的装饰
@@ -16671,8 +16544,6 @@ conductivity     n.导电率,传导率,传导度
 confabulate  v.闲谈，讨论
 confraternity    n.团体,协会,帮会
 congenital   adj.(病等)先天的，天生的
-congruence   n.适合,一致,相合性
-congruent    adj.全等的
 conjunctive  a.连结的,结合的,联合的
 consequential    adj.产生后果的，重要的
 consomme     n.清汤
@@ -16780,8 +16651,6 @@ extractor    n.拔取的人,抽出者,抽出器
 extradite    v.引渡回国，拿获归案
 extraneous   adj.外来的，无关的
 extrude  vt.挤出,压出,逐出
-facing   n.贴边,饰面
-factotum     n.杂役，听差
 falseness    n.虚伪,不正确,不忠实
 farrow   v.(母猪)生产n.一窝小猪
 farsightednes    n.远视眼
@@ -16816,7 +16685,6 @@ freshwater   n.淡水
 friable  adj.易碎的
 fricassee    n.烧鸡肉或小牛肉成肉丁浇汁者
 fructify     v.结果实，成功
-fuchsia  n.晚樱科植物
 funk     n.恐惧，恐怖
 fusilade     n.(枪炮)齐射，连发
 gadfly   n.虻，牛虻
@@ -17074,8 +16942,6 @@ prawn    n.明虾,大虾
 preempt  v.以先买权取得，取代
 preexistent  adj.先存的,先在的
 prefatory    a.前言的,序文的
-prefect  n.长官,提督,地方首长
-prefecture   n.任期,管区,县
 prelacy  n.高级教士之职,主教
 preordain    vt.预定,预先注定命运
 preterit     a.过去的
@@ -17333,3 +17199,4 @@ florid   adj.华丽的，(脸)红润的
 lurid    a.火烧似的,苍白的,华丽而庸俗的,
 grid     n.格子,栅极
 harridan     n.凶恶的老妇，老巫婆
+meagre   adj.瘦的，贫乏的
