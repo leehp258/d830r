@@ -186,7 +186,6 @@ country  n.国家，国土;农村
 course   n.课程;过程;一道菜
 court    n.法院，法庭;庭院
 cover    vt.盖，包括 n.盖子
-cow  n.母牛，奶牛
 cross    n.十字架 vt.&vi.穿过
 crowd    n.群;大众;一伙人
 crown    n.王冠，冕;花冠
@@ -291,7 +290,6 @@ fine     adj.好的 adv.很好,妙
 finger   n.手指
 finish   vt.完成，结束 n.结束
 firm     n.商行，商号，公司
-first    num.第一
 fish     n.鱼肉;鱼
 fit  vt.&vi.适合，合身
 five     num.五
@@ -474,8 +472,6 @@ make     v.造，制作，使..
 man  n.男人;人;人类
 manner   n.方式;态度;礼貌
 many     a.许多的 pron.许多人
-march    n.三月
-March    n.三月
 mark     n.痕迹;记号;商标
 marker   n.作记号的人,记分员,书签,纪念碑,
 master   n.主人;能手;硕士
@@ -598,7 +594,6 @@ present  a.现在的 n.目前
 press    n.印刷机，印刷所
 pretty   a.漂亮的，标致的
 price    n.价格;代价
-prince   n.王子，亲王
 promise  n.诺言 vt.&vi.答应
 proper   a.合乎体统的，正派的
 proud    adj.骄傲的;自豪的
@@ -790,13 +785,11 @@ thick    adj.厚的;浓的
 thin     adj.瘦的
 thing    n.事情，东西
 think    vt.想;想要;认为
-third    num.第三
 this     pron.&adj.这，这个
 those    pron.&adj.那些
 though   conj.虽然 ad.可是
 thought  n.思想;思维;想法
 thousand     num.千
-three    num.三
 through  prep.穿过ad.从头到尾
 throw    vt.&vi.投掷;摔倒
 tie  vt.(用绳等)系，栓
@@ -1025,7 +1018,6 @@ bud  n.芽，萌芽;蓓蕾
 burst    n.突然破裂;爆发
 bury     vt.埋葬，葬;埋藏
 bush     n.灌木，灌木丛，矮树
-button   n.扣子;按钮 vt.扣紧
 calm     adj.平静的;沉着的
 camp     n.野营，营地，兵营
 ax   n.斧子
@@ -1035,7 +1027,6 @@ carriage     n.客车厢;四轮马车
 cast     vt.投，扔，抛;浇铸
 castle   n.城堡;巨大建筑物
 cat  n.猫，猫科，猫皮
-cattle   n.牛
 cave     n.山洞，洞穴，窑洞
 cease    vi.&vi.&n.停止，停息
 celebrate    vt.庆祝;歌颂，赞美
@@ -1531,7 +1522,6 @@ presence     n.出席，到场;在
 preserve     vt.保护;保存;腌渍
 president    n.总统
 prevent  vt.预防，防止;阻止
-principal    a.主要的 n.负责人
 print    vt.&n.印刷
 prison   n.监狱，监禁
 prisoner     n.囚犯
@@ -1720,12 +1710,8 @@ terror   n.恐怖，惊骇
 test     n.&vt.测验，考查
 testimonial  n.证明书，奖状
 testimony    n.证言，证明
-thirty   num.三十
 thorough     a.彻底的;详尽的
-thread   n.线
-threaten     vt.&vi.威胁，恐吓
 throat   n.喉咙
-throne   n.宝座，御座;王位
 thunder  n.雷 vi.打雷 vt.吼出
 Thursday     n.星期四
 tide     n.潮;潮水
@@ -1752,7 +1738,6 @@ treasure     n.财富;珍宝 vt.珍视
 treat    vt.治疗
 tremble  vi.发抖;摇晃
 trial    n.试，试验;审判
-tribe    n.部落，宗族
 trick    n.诡计;计谋
 trim     a.整齐的 vt.使整齐
 troop    vi.群集，集合
@@ -1788,7 +1773,6 @@ wander   vi.徘徊;流浪vt.漫游
 warn     vt.警告，告诫
 wealth   n.财富，财产;丰富
 weary    a.疲倦的 vt.使疲乏
-Wednesday    n.星期三
 weed     n.杂草，野草 vi.除草
 weep     vi.流泪;哭泣
 weight   n.重;砝码;重担
@@ -1881,7 +1865,6 @@ bat  n.蝙蝠
 bath     n.浴，洗澡;浴缸
 bathe    vt.给⋯洗澡;弄湿
 bead     n.有孔小珠;露珠
-beef     n.牛肉
 beggar   n.乞丐，穷人
 belief   n.相信;信念;信仰
 beloved  a.为⋯的爱的 n.爱人
@@ -1907,13 +1890,11 @@ breeze   n.微风，和风
 Britain  n.英国，不列颠
 broom    n.扫帚
 bubble   n.泡 vi.冒泡，沸腾
-bull     n.买空的证券投机商
 bunch    n.束，球，串;一群
 bundle   n.捆，包，束;包袱
 burden   n.担子，负担 vt.劳累
 bureau   n.局，司，处;社，所
 bushel   n.蒲式耳(容量单位)
-butcher  n.屠夫;屠杀者
 buzz     vi.(蜂等)嗡嗡叫
 cabin    n.小屋;船舱，机舱
 cage     n.畜养禽、兽的笼子
@@ -1988,7 +1969,6 @@ costly   a.昂贵的;价值高的
 couch    n.睡椅，长沙发椅
 counsel  n.商议;忠告;律师
 county   n.英国的郡，美国的县
-coward   n.懦夫;胆怯者
 cradle   n.摇篮，发源地
 crawl    vi.爬，爬行
 credit   n.信用贷款;信用
@@ -2395,8 +2375,6 @@ prevail  vi.胜，优胜;流行
 prey     vi.猎物 vi.捕获
 prick    vt.刺(穿)n.刺孔
 priest   n.教士，牧师，神父
-princess     n.公主，王妃
-principle    n.原则，原理;主义
 privilege    n.特权，优惠
 problem  n.问题;习题，问题
 process  n.过程;制作法;工序
@@ -2612,9 +2590,7 @@ thence   adv.由彼处,从那里
 thereof  ad.它的，其;由此
 thief    n.窃贼，偷窃犯
 thirst   n.渴，口渴;渴望
-thirteen     num.十三，十三个
 thorn    n.刺，棘;荆棘;蒺藜
-throng   n.群，人群 vt.挤满
 thrust   vt.,vi.&n.刺，戳，插
 thumb    n.(大)拇指
 tick     n.滴答声;记号
@@ -2800,7 +2776,6 @@ burial   n.安葬，埋葬，埋藏
 cabbage  n.洋白菜，卷心菜
 cabinet  n.橱，柜;内阁
 cable    n.海底电报
-calf     n.小牛,小牛皮,腓,小腿
 camel    n.骆驼
 campaign     n.战役;运动
 canoe    n.独木舟，皮艇，划子
@@ -3285,7 +3260,6 @@ practicaly   ad.实际上;几乎
 prescribe    vt.命令;处(方)
 presume  vt.假定，假设，揣测
 previous     a.先的;前的 ad.在前
-prime    adj.首要的;基本的
 procession   n.队伍，行列
 procure  vt.获得,取得,促成
 prolong  vt.延长，拉长，拖延
@@ -3476,9 +3450,6 @@ thickness    n.厚(度);密(度)
 thigh    n.股，大腿
 thistle  n.蓟
 thither  a.对岸的,那边的
-thrice   ad.三倍,三次,屡次,十分地
-thril    vt.&vi.(使)激动
-thrive   vi.兴旺，繁荣，旺盛
 tiger    n.老虎
 tile     n.瓦片，瓷砖;贴砖
 timber   n.木料;木材
@@ -3498,8 +3469,6 @@ transfer     vt.转移;调动vi.转移
 translate    vt.翻译，译 vt.翻译
 treason  n.谋反，通敌，叛国罪
 treasury     n.宝藏
-tributary   adj.支流(的)，进贡(的)
-tribute  n.贡物;献礼，贡献
 trousers     (pl.)n.长裤
 tub  n.桶，盆，浴缸，浴盆
 tube     n.管;电子管，显像管
@@ -3627,7 +3596,6 @@ attic    n.阁楼，顶楼
 attitude     n.态度，看法;姿势
 attorney     n.代理人;辩护律师
 attraction   n.吸引;吸引力;引力
-attribute    vt.把⋯归因于 n.属性
 aural    a.耳的，听觉的
 Australia    n.澳大利亚
 Austria  n.奥地利
@@ -3673,7 +3641,6 @@ brisk    a.活泼的;清新的
 buffet   n.自助餐,小卖部,冲击,殴打,碗橱
 bug  n.臭虫;(美)虫子
 bulb     n.电灯泡;球状物
-bullet   n.子弹，枪弹
 bust     n.半身(雕)像
 bye  int.((口语))再见
 calendar     n.日历，历书;历法
@@ -3729,7 +3696,6 @@ congregation     n.集合在一起的群众
 consecrate   vt.供神用,奉献,使神圣
 consequent   a.作为结果的;必然的
 consequently     ad.因此，因而，所以
-contribute   vt.捐献，捐助;投稿
 convenience  n.便利，方便;厕所
 convent  n.女修道会
 converse     vi.交谈
@@ -3799,8 +3765,6 @@ disorder     n.混乱，杂乱;骚乱
 dispense     vt.分配
 disposition  n.处理，天性、气质
 distinction  n.差别，不同，区分
-distribute   vt.分发，分送;分布
-distribution     n.分发，分配;分布
 dolly    n.洋娃娃,捣棒
 drama    n.一出戏剧，剧本
 dreary   adj.沉闷的，乏味的
@@ -3937,7 +3901,6 @@ headlong     a.&ad.头向前的(地)
 headquarters     n.司令部;总部
 hearken  v.倾听
 heath    n.荒地
-heifer   n.小母牛
 helm     n.舵，驾驶盘
 helper   n.帮忙者,助手
 helpful  a.给予帮助的;有用的
@@ -4124,7 +4087,6 @@ overewhelming    adj.压倒一切的
 Oxford   n.牛津(英国城市)
 pad  n.垫;本子 vt.填塞
 painful  a.使痛的;费力的
-pansy    n.三色紫罗兰
 pantry   n.食品柜，餐具室
 parade   n.游行;检阅 vi.游行
 parrot   n.鹦鹉
@@ -4171,7 +4133,6 @@ preacher     n.传道者,讲道者,牧师
 preside  vi.主持;主奏
 pressure     n.压力;压力;压，按
 pretence     n.虚伪，借口
-primary  a.最初的;基本的
 production   n.生产;产品;总产量
 profane  v.亵渎，玷污
 profess  vt.声称,以...为业,伪称,讲授
@@ -4367,8 +4328,6 @@ thermometer  n.温度计,体温计
 thieve   vt.偷,行窃
 thoughtful   a.沉思的;体贴的
 thrash   vt.痛打，鞭打 vi.打
-threat   n.威胁，恐吓，凶兆
-threshold    n.门槛;入门，开端
 thump    n.重打,重击声
 tickle   vt.挠，胳肢;逗乐
 tidings  n.消息
@@ -4554,12 +4513,9 @@ brotherly    a.兄弟的,亲兄弟似的,亲切的
 brutal   adj.残忍的，严酷的
 buckle   n.皮带扣环v.扣紧
 buckwheat    n.乔麦,乔麦之种,乔麦粉
-buff     n.浅黄色(软皮革)，水牛
-buffalo  n.水牛;水陆坦克
 buggy    n.轻型马车，婴儿车
 bump     vt.&vi.碰，撞;撞击
 busily   ad.忙碌地
-butt     n.大酒桶，桶
 buyer    n.买主,买方
 cab  n.计程车,出租汽车,出租单马车
 calamity     n.大灾祸，不幸之事
@@ -4628,7 +4584,6 @@ corruption   n.腐败,堕落,贪污
 countless    a.数不尽的,无数的
 courageous   a.勇敢的，无畏的
 covenant     n.契约，v.立书保证
-cowardly     a.懦弱的,卑怯的,胆小的
 cracker  n.饼干,爆竹,胡桃钳
 crag     n.悬崖，峭壁
 cram     v.填塞，塞满
@@ -4656,7 +4611,6 @@ deign    v.屈尊，惠允(做某事)
 deity    n.神，神性
 deliberate   a.深思熟虑的;审慎的
 dell     n.小谷,小溪谷
-delta    n.(河流的)三角洲
 democrat     n.民主正体论者,民主主义者,民主 党员
 demonstrate  vt.说明;论证;表露
 denounce     vt.谴责，声讨;告发
@@ -4807,7 +4761,6 @@ hack     v.乱劈，乱砍，n.驽马
 fighter  n.战士
 hale     a.强壮的,健壮的
 hallo    int.一种喊声
-hamburger    n.汉堡包，牛肉饼
 harlot   n.妓女
 harrow   n.耙
 hashish  n.以印度大麻提练的麻药
@@ -5196,7 +5149,6 @@ therefor     adv.为此;因此
 therein  ad.在那里，在那时
 thimble  n.顶针,嵌环,套管
 thoughtless  a.欠考虑的;自私的
-thrifty  a.节俭的;兴旺的
 thrush   n.画眉,鹅口疮,蹄叉腐疽
 thunderbolt  n.霹雳,雷电,意外,怒喝
 thwart   v.阻挠，使⋯受挫
@@ -5215,7 +5167,6 @@ transient    adj.短暂的，转瞬即逝的
 tray     n.浅盘;碟
 treasurer    n.司库，财务主管
 trespass    v.侵犯，闯入私人领地
-triangle     n.三角(形)
 triumphant   a.得胜的;得意洋洋的
 trivial  a.琐碎的;平常的
 troll    vi.旋转,轮唱,钓鱼
@@ -5392,7 +5343,6 @@ bewitch  vt.施魔法于,迷惑,使着迷
 bib  n.围兜
 biology  n.生物学;生态学
 birthplace   n.诞生地
-birthright   n.与生俱来的权力
 blackberry   n.黑莓,悬钩子
 blacken  vt.使变黑,诽谤
 blasphemy    n.亵渎，渎神
@@ -5410,7 +5360,6 @@ breaker  n.断路器
 breathles    a.喘不过气来的,屏气的,死的,
 bristle  n.短而硬的毛;鬃毛
 broil   v.烤，烧，争吵，怒骂
-bulletin     n.公报;公告
 bulwark  n.堡垒，保障
 bun  n.小面包
 burrow   n.(兔子等)所掘的地洞，v.挖洞
@@ -5480,7 +5429,6 @@ contemporary     a.当代的，同时代的
 contemptible     adj.令人轻视的
 contented    a.满足的,心安的
 continuance  n.继续的期间,停留,持续
-contribution     n.贡献
 conveyance   n.运输,运输工具,财产让与
 coo  vi.(鸽)咕咕地叫
 cooky    n.=cokie小甜饼
@@ -5491,8 +5439,6 @@ core     n.果实的心，核心
 coronet  n.冠,冠冕,冠状头饰
 corset   n.紧身衣
 countryman   n.乡下人,国民
-cowardice    n.胆小，懦弱
-cowl     n.(修道士的)连头罩的斗篷
 crane    n.起重机，摄影升降机
 crate    n.篓，板条箱
 cravat   n.领巾，领结
@@ -5623,7 +5569,6 @@ filter   vt.过滤 n.滤纸
 filth    n.污秽，污物;淫猥
 fin  n.鳍
 finance  vt.提供资金
-first-born   n.头踏
 fixture  n.固定;定期存款
 flaw     n.缺点，瑕疵;裂隙
 fleecy   a.以羊毛盖上的,羊毛似的,蓬松的
@@ -5909,7 +5854,6 @@ prelate  n.高级教士
 premium  n.保险费，奖金
 presently    adv.一会儿，不久
 prevalent    a.流行的;盛行的
-primitive    a.原始的;粗糙的
 prior    a.在先的;优先的
 prism    n.棱柱(体);棱镜
 proclamation     n.宣言,公布,文告
@@ -6092,10 +6036,7 @@ terminate    vt.&vi.停止，终止
 testament    n.遗嘱，证明
 theft    n.盗窃，偷窃(行为)
 therewith    ad.随其,以其,于是
-thirteenth   num.第十三,十三分之一
 thral    n.奴隶，农奴
-threescore   n.六十,六十岁
-thresh   vt.打谷，脱粒;推敲
 tit  n.山雀,轻打,女人,奶头
 toll     n.通行费,代价,钟声
 tour     n.&vi.旅行，游历
@@ -6271,7 +6212,6 @@ brittle  a.脆的;易损坏的
 broth    n.肉汤
 broth    n.肉汤
 budget   n.预算，预算案
-bully    v.欺负，威协
 buoy     n.浮标，救生圈，v.支持，鼓励
 buoyant  adj.易浮的，快乐的.
 burgher  n.公民,市民
@@ -6365,7 +6305,6 @@ counsellor   n.顾问,辅导员,律师
 counselor    n.顾问,参事,法律顾问
 counteract   v.消除，抵消
 covetous     adj.贪婪的，贪心的
-cowslip  n.西洋樱草,猿猴草的一种
 crafty   adj.狡诈的
 cramp    n.铁箍，夹子
 crank    n.曲柄 vi.转动曲柄
@@ -6797,9 +6736,6 @@ preservation     n.保存，储藏;保持
 presidential     a.总统的,首长的,支配的,统 辖的,
 presumption  n.假定，冒昧
 prevention   n.预防，阻止，妨碍
-primrose     n.报春花,樱草花,樱草色
-princely     adj.王子的，慷慨的
-principality     n.公国,领地,封邑
 probability  n.可能性;概率
 prodigal     adj.挥霍的，n.挥霍者
 productive   a.生产的;丰饶的
@@ -6964,7 +6900,6 @@ sweeper  n.清扫夫
 sycamore     n.小无花果树,枫树的一种
 sympathetic  a.同情的;和谐的
 symptomatic  a.具有征候的,症状的,根据 征候的
-tallow   n.牛脂,动物脂
 tangle   vt.使缠结，使纠缠
 tanker   n.油船;空中加油飞机
 target   n.靶，标的;目标
@@ -6976,7 +6911,6 @@ termination  n.结束;中止
 terrorist    n.恐怖分子
 thatch   n.茅草屋顶，茅草
 thereafter   ad.此后，以后
-thirtieth    num.第三十,三十分之一
 thorny   a.有刺的
 tinge    v.给⋯⋯染色
 tingle   vi.兴奋,激动,感到刺痛,抖动
@@ -6988,10 +6922,7 @@ transformation   n.变化;改造;转变
 transit  n.经过,通行,转变,运输线,运输
 translation  n.翻译;译文，译本
 treatise     n.论文
-treble   n.最高音部,三倍
-tribunal     n.法庭，裁判所
 trickle  vi.滴，淌 n.滴;细流
-triple   n.三倍之数,三个一组
 triumphal    a.胜利的,凯旋的
 trustee  n.受托人,理事
 tuna     n.金枪鱼
@@ -7142,7 +7073,6 @@ bray     n.驴叫声,喇叭声
 brimstone    n.硫黄
 brine    n.盐水，海水
 brocade  n.织锦
-bullock  n.阉牛
 burgess  ]伯奇士 (男子名)
 calorie  n.卡路里
 cambric  n.一种亚麻布或棉布
@@ -7223,7 +7153,6 @@ cosy     adj.=cozya.舒适的,安逸的,惬意的
 cotyledon    n.子叶,瓦松属
 coupling     n.联结,结合,耦合
 cove     n.山凹,小湾
-cowboy   n.牛仔,牛郎,牧童
 coy  adj.腼腆的，忸怩的
 craven   adj.懦弱的，畏缩的
 creamy   a.含乳脂的,乳脂状的,奶油色的
@@ -7329,7 +7258,6 @@ engender     v.产生，引起
 engross  v.全神贯注于
 enhance  vt.提高，增加;夸张
 enliven  vt.使活泼,使生动
-enthrone     vt.立...为王,使登极,任为主教,
 entrails     n.内脏，肠
 Episcopal    a.主教的,主教制度的,英国国教的
 eradicate    v.根除，扑灭
@@ -7550,7 +7478,6 @@ metric-system    n.公制，十进制
 migration    n.迁徙
 milkmaid     n.挤奶的妇女,在酪农场工作的女性
 mimic    v.模仿，戏弄，n.模仿他人言行的人
-minion   n.奴才，低三下四之人
 minnow   n.鲦鱼，小淡水鱼
 minster  n.修道院附属的教堂,大教堂
 mirthful     a.愉快的,高兴的
@@ -7669,7 +7596,6 @@ prescription     n.药方，处方的药
 presidency   n.总统职位,总裁职位,主席职位
 prevalence   n.普遍;流行
 preventive   a.预防的,做预防的,妨碍的
-primer   n.启蒙书，识字课本
 printer  n.印刷工;印花工
 privacy  n.隐私,隐居,秘密
 procedure    n.程序;手续;过程
@@ -7826,8 +7752,6 @@ thankless    a.不感谢的,忘恩的,不知感恩的
 thenceforth  ad.从那时,其后
 thereto  ad.对那,往那边,到那
 thong    vt.装皮带,用皮鞭打
-threefold    a.三倍的,三重的
-thrift   n.节约,繁荣
 throb    n.(心脏)的跳动，悸动
 tighten  vt.&vi.(使)变紧
 timely   a.及时的;适时的
@@ -7875,7 +7799,6 @@ usurper  n.篡夺者,夺取者
 swiftness    n.迅速,快
 vaccination  n.预防注射，种痘
 vat  n.大桶
-veal     n.小牛肉
 velocity     n.速度，速率
 ventilate    vt.使通风，使换气
 ventricle    n.室,脑室,心室
@@ -7990,7 +7913,6 @@ belle    n.靓女
 benediction  n.祝福，祈祷
 benign   adj.慈祥的
 billiards    n.台球
-bison    n.野牛
 blackness    n.黑,黑色,阴险
 blazon   vt.以家徽装饰,宣布
 blissful     a.充满喜悦的
@@ -8007,7 +7929,6 @@ bountiful    a.慷慨的,宽大的
 brevity  n.短暂,简短
 broach   v.开瓶，提出(题目)
 broker   n.掮客,经纪人
-buck     n.强烈反对，吹牛，雄鹿，美元
 budge    v.移动，让步n.羔皮，革袋
 bulge   v.膨胀，突出
 bulky    a.庞大的
@@ -8134,7 +8055,6 @@ despotism    n.专制，暴政
 destroyer    n.破坏者,驱除者,作破坏的事物,
 destructive  a.破坏(性)的，危害的
 determinate  a.确定的,一定的,决定的
-dethrone     vt.废黜,废位赶出
 detriment    n.损害，伤害
 devastate    v.摧毁，破坏
 dewdrop  n.露珠,露滴
@@ -8510,7 +8430,6 @@ preserver    n.保存者,保护者
 presumable   adj.可能的，可假定的
 pretension   n.自命不凡
 pretext  n.借口
-principaly   ad.主要，大抵
 probe    n.探针 vt.用探针探查
 producer     n.生产者;舞台监督
 proofread    vt.校正,校对
@@ -8689,10 +8608,7 @@ townsman     n.市民
 toxin    n.毒素，毒质
 transplant   vt.&vi.移植，移种
 tress    n.头发一束,卷发,发辫
-triangular   a.三角的;三者间的
-tribulation  n.苦难，磨难，考验
 trill    n.颤声,颤音,啭声
-trinity  n.三位一体,三人一组,三个一组的东西
 trinket  n.小装饰品，不值钱的珠宝
 trundle  n.小车轮,脚轮,滚动
 tuber    n.块茎，球根
@@ -8858,7 +8774,6 @@ brunt    n.(主要的)压力
 brutish  adj.如野兽 [畜生]的
 buccaneer    n.海盗
 buckler  n.小圆盾,防卫物,防卫
-bulldozer    n.推土机
 bungalow     n.平房,周围有阳台的木造小平房
 burdock  n.牛蒡
 bushy    a.灌木一样的,灌木茂密的,多毛的
@@ -9069,7 +8984,6 @@ fez  n.土耳其毯帽
 fie  int.咄!呸!
 filler   n.补白,装填物
 finite   a.有限的;有尽的
-firstaid     a.急救的 n.急救
 fishery  n.渔场
 flashlight   n.手电筒
 flatten  vt.把⋯弄平;击倒
@@ -9356,7 +9270,6 @@ predominate  vi.占主导地位
 prefix   n.字首
 premier  n.总理，首相
 prickly  adj.多刺的，易生气的
-primarily    ad.首先;主要地
 privation    n.丧失，贫困
 probation    n.试用(期)，试验
 proceds  n.收入
@@ -9411,7 +9324,6 @@ reorganize   vt.vi.改组,再编制,改造
 repairer     n.修理者;修补者
 replete  adj.饱满的，塞满的
 reprieve    v.缓刑，暂时解救
-reprimand   v.训诫，谴责
 reproachful  a.申斥的,非难的,应责备的
 reprobate   adj.堕落的 (人)
 responsive   adj.敏感的，反应快的
@@ -9553,7 +9465,6 @@ transverse   a.横切的 n.横轴
 trapper  n.设陷阱捕兽者
 trash    n.废物，垃圾
 trice    n.瞬间，一刹那v.吊起
-trivet   n.(用以承托锅等于火上的)三脚架
 truce    n.停战，休战(协定)
 trustworthy  a.可信赖的
 trying   a.难受的,费劲的
@@ -9823,7 +9734,6 @@ container    n.容器;集装箱
 contemplative    a.沉思的,爱默想的,冥 想的
 contortion   n.扭曲，弯曲
 contractile  a.会缩的,有收缩性的
-contributor  n.贡献者,捐助者,赠送者, 投稿者
 contriver    n.发明者,创制者,筹谋者
 converge     v.会聚，集中于一点
 cookery  n.烹调法,烹调术
@@ -9833,7 +9743,6 @@ corduroy     n.灯芯绒,用该布制的衣服,裤子
 cortex   n.外皮
 Cossack  n.[the
 courser  n.猎狗,打猎者,骏马
-cower    v.畏缩，蜷缩
 craving  n.强烈的欲望
 creditable   adj.值得称赞的，可信的
 creeper  n.爬行者
@@ -9892,7 +9801,6 @@ disprove     vt.证明...是不对的,提出...的反 证,
 dissemble    v.隐藏、掩饰(感受，意图)
 dissipation  n.消散,分散,浪费
 distillation     n.蒸馏
-distributor  n.分配者,分发者,(货物的) 配销商
 divergence   n.分歧，分开
 divest   vt.剥除,使脱去,夺去
 docile   a.容易教的,温顺的
@@ -10263,7 +10171,6 @@ preeminent   adj.出类拔萃的
 prelude  n.序幕，前奏
 preocupy     vt.先占领,先取,迷住
 preservative    adj.防腐的，防腐剂
-prim     adj.端庄的，整洁的
 prismatic    a.用棱镜分析的,分光的,虹色的
 prithee  int.请,求求你
 proboscis    n.(象)长鼻，(昆虫等)吸管
@@ -10410,7 +10317,6 @@ tepid    adj.微温的
 territorial  a.领土的
 tester   n.考试人,试验装置,天盖,华盖
 thievish     a.有偷窃癖的,象盗贼的,偷偷摸摸的
-threadbare   adj.磨破的，陈腐的
 tier     n.列,行,等级,层
 timidity     n.胆小,胆怯,羞怯
 tobogan  n.平底雪橇
@@ -10563,7 +10469,6 @@ bunk     n.铺位,废话,逃走
 bunny    n.兔子
 burdensome   a.难以负担的;沉重的
 buskin   n.[常
-buttress     n.扶墙，拱壁，v.支持
 byway    n.旁道,通道,间道
 cafe     n.咖啡馆;小餐厅
 caitiff  a.卑劣的
@@ -10741,7 +10646,6 @@ ermine   n.貂,貂的白毛皮
 errant   adj.错误的，脱离正途的
 erst     ad.以前,往昔的
 erudition    n.博学
-estuary  n.河口，三角湾
 eulogy   n.颂词，颂文
 evangelical  adj.福音 (书)的, 福音传道的
 evangelist   n.福音传道者,圣经新约福音书 的作者
@@ -10768,7 +10672,6 @@ fiddler  n.拉提琴,蟹的一种
 finch    n.雀科鸣禽(如燕雀，金丝雀等)
 fiord    n.峡湾
 fjord    n.峡湾
-firstling    n.首批东西,初生物
 flagman  n.旗手,信号旗手,平交道看守
 flail    n.连枷(打谷工具)v.打，打击
 flaxen   a.亚麻的,亚麻色的,淡黄色的
@@ -10939,7 +10842,6 @@ marginal     a.记在页边的;边缘的
 marker   n.作记号的人,记分员,书签,纪念碑,
 marquee  n.大帐篷,华盖
 mastiff  n.大型猛犬之一种
-median   adj.中间的，n.(三角形)中线
 memorandum   n.备忘录
 menagerie    n.兽群，动物园
 meningitis   n.髓膜炎
@@ -11031,8 +10933,6 @@ prefigure    v.预示，预想
 presentiment     n.预感,预觉
 priceless    adj.无价的，极贵的
 priestly     a.僧的,僧侣似的
-primal   a.原始的;最初的
-primate  n.灵长类(动物)
 pro  ad.正面地
 proceding    n.程序，行动，事项
 profusion    n.丰富、大量、浪费
@@ -11083,7 +10983,6 @@ retaliate    v.报复，反击
 retention    n.保留，保持
 retouch  vt.vi.润饰,修正
 retract  v.缩回，收回
-retribution  n.报应，罚
 reunion  n.团圆,重聚
 rhubarb v.喧闹
 rickets  n.软骨病,佝偻病,驼背
@@ -11211,8 +11110,6 @@ treasonable  a.叛逆的,谋叛的,不忠的
 trellis  n.(葡萄等的)架子，棚子
 trenchant    adj.一针见血的，精辟的
 trepidation  n.恐惧，惶恐
-tripod   n.三脚桌,三脚架
-trireme  n.三层桨座之战船
 troublous    a.纷乱的,骚乱的,动乱不安的
 trumpery     adj.中看不中用的，无价值的
 truncheon    n.警棍，警棒
@@ -11394,7 +11291,6 @@ bunt     n.顶撞,推,短打
 buoyancy     n.浮力
 burly    a.结实的,粗壮的,率直的
 bushing  n.轴衬,套管
-butte    n.孤立的丘
 caboose  n.(载货火车最后一节的)守车,
 caffeine     n.咖啡因,茶精(兴奋剂)
 caliph   n.哈利发,回教国国王
@@ -11871,7 +11767,6 @@ prejudicial  adj.有害的，引起偏见的
 preponderance    n.优势，多数
 presto   n.(音乐)快拍，急速
 prewar   a.战前的
-primeval     n.原始的，早期的
 priority     n.先，前;优先，重点
 privateer    n.私有武装船,私掠船
 projectile   n.抛射物，发射体
@@ -12002,7 +11897,6 @@ surveillance     n.监视,监督
 susceptibility   n.感受性,感情
 sweet    adj.甜的
 swill    v.冲洗，痛饮
-syllogism    n.三段论法,推论法,演绎
 sylph    n.空中仙女，身材苗条之女子
 synod    n.宗教会议,大会,会议
 tableware    n.餐具
@@ -12019,7 +11913,6 @@ termite  n.白蚁
 textbook     n.课本，教科书
 thistledown  n.蓟花的冠毛
 thousandth   a.第一千,千分之一
-thriftles    a.不节俭的,无储蓄心的,浪费的
 thrum    n.织边,织余,乱弹,纱头,线头
 thyroid  a.甲状腺的,盾状的,甲状软骨的
 tittle   n.些量,微量,符号,小点,微小
@@ -12198,9 +12091,7 @@ bowstring    n.弓弦,绞索
 bracken  n.欧洲蕨
 broomstick   n.帚柄
 brushwood    n.柴,柴枝,草丛
-bullion  n.金条，银条
 bunion   (C)拇趾粘液囊肿大,拇囊肿
-buttocks     n.臀部
 cabal    n.徒党,秘密结社,(尤指政治上的)阴谋
 cafeteria    n.自助食堂
 calamitous   adj.造成灾祸的
@@ -12219,7 +12110,6 @@ changeles    a.不变的,固定不变的,固定的
 chaotic  adj.混乱的
 chassis  n.(汽车的)底盘
 chintz   n.印花棉布
-chloral  n.三氯乙荃,三氯乙二醇
 chlorine     n.氯
 Christianize     vt.使成基督徒
 chronology   n.年代学
@@ -12387,7 +12277,6 @@ fatality     n.宿命，致命性
 fiat     n.命令，决断
 fief     n.封地，活动范围
 filtration   n.过滤,筛选
-first-rate   a.第一流的，优秀的
 fish-hook    n.鱼钩
 flabby   adj.(肌肉)松软的，意志薄弱的
 flagrant     adj.臭的，恶名昭彰的
@@ -12677,7 +12566,6 @@ pedantic     a.卖弄学问的,炫学者,假装学者的
 pedantry     n.迂腐
 pellucid     adj.清晰的，清澈的
 penitentiary     n.监狱，感化院
-pennon   n.细长三角旗,小燕尾旗,枪旗
 Pentecost    n.『犹太教』五旬节
 percolate    v.过滤出，渗透
 perforce     ad.必然地
@@ -12719,7 +12607,6 @@ prescience   n.预知,先见
 pretender    n.冒牌者,要求者,要求王位者
 preternatural    adj.异常的，超自然的
 priestess    n.尼,尼姑,女祭司
-primacy  n.第一,首位,卓越
 pristine     adj.太古的，纯洁的，新鲜的
 proconsul    n.地方总督,殖民地总督
 profanation  n.亵渎神圣,冒犯;滥用 (misuse)
@@ -12872,7 +12759,6 @@ tram     n.(有轨)电车
 trammel v.束缚，妨碍，鱼网
 transmigration   n.轮回
 transmute    v.变化，变作
-tricycle     n.三轮车,机器三轮车
 trifler  (C)轻薄者;戏谑者
 truism   n.自明之理，真理
 tumultuary   adj.喧嚣的;骚动的
@@ -12905,7 +12791,6 @@ up-to-date   a.直到最近的，现代的
 usurer   n.高利贷者
 vaccine  n.牛痘苗，疫苗
 varlet   n.恶棍
-velocipede   n.脚踏两轮车,孩童用三轮车,手 压车之一种
 venal    adj.唯利是图的，贪脏枉法的
 venturesome  a.好冒险的;大胆的
 veracity     n.真实性，诚实
@@ -13002,7 +12887,6 @@ asseveration     n.断言,誓言
 astringent   adj.止血的，收缩的n.收缩剂， 止血剂
 attainable   a.可到达的,可得到的
 attainder    n.剥夺公民权
-attributable     a.可归于...的
 augmentation     n.增加
 autocracy    n.独裁政体
 avoirdupois  n.常衡,体重,重量
@@ -13018,7 +12902,6 @@ basilisk     n.蛇怪
 battle-axe   n.战斧
 battle-ax    n.战斧
 beatitude    n.至福，十分幸福
-beefsteak    n.牛排
 beetling     a.突出的
 begirt   v.begird的过去式.过去分词
 begrime  vt.弄脏
@@ -13198,7 +13081,6 @@ donate   vt.vi.捐赠
 drivel   vi.淌口水,说傻话
 dromedary    n.单峰骆驼
 ductile  adj.易拉长的，易变形的，可塑的
-ebullition   n.沸腾,精神饱满
 educe    vt.引出,唤起,使显出
 effervescence    n.冒泡,沸腾,活泼
 egregious    adj.(缺点等)过份的，惊人的
@@ -13259,7 +13141,6 @@ foppery  n.打扮,矫饰,纨绔习气
 foreknow     vt.预知,预见
 forsoth  ad.实在,的确,真的
 forwardness  n.大胆，鲁莽
-freakish     adj. 畸形的；奇特的；朝三暮四的；异想天开的
 freewill     a.自由意志的,任意的,自愿的
 freshet  n.(流入海中的淡水)河流
 fritter  vt.浪费,细切,剁碎
@@ -13554,7 +13435,6 @@ prepossesion     n.先入之见
 presentment  n.陈述,叙述
 presumptive  a.根据推定的,假定的,给与推 定之根据的
 pretentious  adj.做作的，自抬身价的
-primogeniture    n.长子的身分
 procrastinate    v.耽搁，拖延
 procurator   n.代理人,行政长官,太守,检察 官
 profundity   n.深奥，深刻
@@ -13705,11 +13585,7 @@ translator   n.翻译者
 transmitter  n.转送者,传达人,让渡者
 transmutation    n.变形,变化
 trapeze  n.吊秋千
-triad    n.三个一组,三幅一组,三和音
-tribal   a.部落的,种族的
-trio     n.三重唱
 trite    adj.陈腐的，陈词滥调的
-triumvir     n.三执政官之一人
 trooper  n.骑兵,骑兵警察,伞兵
 trowel   n.泥刀，小铲子
 truculent    adj.残暴的，凶狠的
@@ -13730,7 +13606,6 @@ uncultivated     a.不文明的,无教养的
 undercover   a.秘密从事的,秘密的,被雇间谍 活动的
 underling    n.下属，手下
 unequivocal  a.不含糊的,不模棱两可,明白
-unprincipled     a.无原则的,不道德的,不合人道的
 unsulied     a.无污点的,清白的
 uvula    n.悬雍垂,小舌
 vainglorious     adj.自负的，虚荣心强的
@@ -13839,7 +13714,6 @@ bracing  adj.振奋精神的n.支柱，刺激
 brae     n.斜坡,山坡
 breastwork   n.赶工做成的防壁
 bronco   n.野马
-bulldog  n.斗牛犬
 burgeon  v.迅速成长，发展
 burgh    n.自治都市
 burlap   n.粗麻布(用于窗帘等)
@@ -13894,12 +13768,10 @@ coolie   n.苦力,小工
 coracle  n.轻便小舟
 coroner  n.验尸官
 corpulence   n.肥胖，臃肿
-cottonwood   n.『植物』三叶杨
 countersink  vt.钻孔装埋,打埋头孔于
 countryside  n.乡下，农村
 countrywoman     n.乡村妇女
 couplet  n.对句,对联
-cowhide  n.牛皮,牛皮鞭
 crass    a.粗鲁的,愚钝的,粗糙的,非常的
 creole   n. [常 c
 crestfallen  adj.挫败的，失望的
@@ -13932,7 +13804,6 @@ despondent   adj.失望的，意气消沉的
 detachable   a.可分离的
 detergent    adj.净化的，n.清洁剂
 determinant  n.判定
-dethronement     n.废立,废位;权威地位的推翻
 deuce    n.两点,平手,平分
 dichotomy    n.二分、本质对立
 dictum   n.格言、声明
@@ -14010,7 +13881,6 @@ filigree     n.金银丝做的工艺品
 fillip   n.弹指,刺激
 filly    n.小雌马,小姑娘
 finicky  adj.苛求的，过份讲究的
-first-class  a.最好的,第一流的,优秀的
 fitch    n.臭猫,臭猫皮,臭猫毛
 flagship     n.旗舰
 fledgling    n.刚学飞的幼鸟，无经验的人
@@ -14439,7 +14309,6 @@ stencil  n.(用以刻写图案，文字的)模板v.用 模板刻写
 stewardship  n.steward的职务,工作,管理
 stoicism     n.坚忍克己
 stoma    n.细孔,口,气孔
-stomacher    n.三角胸衣
 stopper  n.阻止的人,木塞,制止器
 strikingly   adv.显著地;引人注目地
 subversive   adj.颠覆性的，破坏性的
@@ -14465,11 +14334,9 @@ tense    n.时态，时
 tenuous  adj.细薄的，稀薄的，空洞的
 terminology  n.术语学，术语
 terminus     n.(火车，汽车)终点站
-tertian  a.每三天发生一次的,隔日的
 therewithal  adv.其外;此外;又
 thermos  n.热水瓶
 thoracic     a.胸的
-thresher     n.打谷者,打谷机,长尾鲨
 throstle     n.画眉鸟,纺织机的一种
 thundercloud     n.雷云
 tigress  n.母虎,雌虎
@@ -14513,7 +14380,6 @@ vaunted  adj.夸示的,自夸的
 vegetate     v.象植物般生活，无所事事
 verdurous    a.碧绿的,绿叶
 versatile    a.多方面的;通用的
-vertex   n.(三角形等)顶角，顶点
 vetch    n.野豌豆
 vicarious    adj.间接的，代理的
 vice-president   n.副总裁,副校长
@@ -14791,7 +14657,6 @@ dwarfish     a.象侏儒的,矮小的
 dynamic  a.有活力的;动力的
 dyspeptic    a.消化不良的,胃弱的,患胃病的
 earmark  n.耳上记号,特征,记号,标记
-ebullient    adj.兴冲冲的，热情奔放的
 eccentricity     n.反常，怪癖
 effusive     adj.流出的，感情奔放的
 ejaculate    v.突然叫出或说出，射出
@@ -15246,7 +15111,6 @@ testamentary     a.遗嘱的,据遗嘱的,遗嘱 中有的
 therapeutic  adj.治病的
 thews    n.肌肉,体力
 thoroughgoing    a.彻底的
-threnody     n.挽歌，哀歌
 thunderous   a.雷声般的
 thunderstruck    a.惊愕的,吓呆的,遭雷击的
 thwack   n.拍地一声打,强打
@@ -15263,7 +15127,6 @@ tot  n.小孩,少量,合计
 trackless    a.无足迹的,无路的
 trajectory   n.(抛射物)弹道轨道
 trencherman  n.食量大的人
-triumvirate  n.三人执政,三头统治,三人执 政之职
 triviality   n.琐事,平凡,轻浮
 truffle  n.块菌
 trustful     a.相信的,信任的
@@ -15384,7 +15247,6 @@ astrolabe    n.星盘(古代星位观侧仪)
 astrological     a.占星的,占星术的
 astutenes    n.机敏,精明
 atelier  n.工作室,画室
-attribution  n.归属
 auricular    adj.耳的
 authorship   n.作家之身分[职],著作业
 autonomy     n.自治,自主
@@ -15645,7 +15507,6 @@ howitzer     n.榴弹炮
 hoyden   n.粗野的女孩，野丫头
 humanist     n.人类学者,人道主义者,人文学 者
 hurtle   vi.碰撞,突进
-hypotenuse   n.(直角三角形的)斜边
 hypothecate  vt.抵押,担保
 hysteria     n.歇斯底里症，过度兴奋
 ibis     n.朱鹭
@@ -16066,7 +15927,6 @@ tendentious  adj.有偏见的，有倾向的
 tergiversation   n.搪塞,背叛,变节
 termagant    adj.凶悍的，暴躁的n.悍妇
 terse    adj.简洁的，简明的
-tertiary     a.第三的,第三位的,第三世纪的
 thallus  n.叶状体,扁平体
 thoroughbred     adj.良种的，纯种的
 thymus   n.胸腺
@@ -16089,13 +15949,9 @@ transom  n.横档,横楣,横梁
 trapdoor     n.地板门,活板门,活盖
 trapezoid    n.梯形,不等边四边形
 trek    v.长途跋涉
-tribune  n.护民官,军团指挥官,民众保护者,
 trickster    n.骗子,魔术师
-trienial     a.每三年一次的
 trillion     n.万亿;兆
-trilogy  n.三部曲
 triolet  n.八行两韵诗
-triplicate   a.三倍的,三重的,三乘的
 trouseau     n.嫁装,嫁妆
 trypsin  n.胰岛素
 turbine  n.叶轮机，汽轮机
@@ -16243,11 +16099,8 @@ broiler  n.老爱吵架的人;唆使他人争吵者
 brother-in-law   n.姊妹的丈夫
 bucksaw  n.有框的锯
 bucolic  adj.乡村的，牧羊的
-bullfinch    n.红腹灰雀
 bumptious    a.瞎自夸的,瞎自大的,傲慢的
 bureaucracy  n.官僚主义;官僚机构
-buttonhole   n.扭扣孔
-buxom    adj.体态丰满的
 cacao    n.可可子,可可树
 cadaverous   adj.像尸体的，(形容)枯槁 的
 cadet    n.军校或警官学校的学生
@@ -16357,7 +16210,6 @@ dermatologist    n.皮肤学者,皮肤科医 生
 designedly   ad.故意地,有计划地,特意地
 devotional   a.信仰的,虔诚的,祷告的
 dewberry     n.悬钩子之类,其果实
-diatribe     n.(口头或书面猛烈的)抨击，抨 击性演说
 dibble   n.挖洞器
 dicker   n.十个,十张,小生意
 dilapidation     n.破旧、荒废
@@ -16676,7 +16528,6 @@ Parse    n.亦作 Parsi.祆教徒; (印度 之)拜火
 parvenu  n.暴发户，新贵
 pastel   n.彩色粉笔画，柔和的色彩
 patina   n.绿锈，光亮的外表
-pediment     n.山形墙,三角墙
 pennate  a.有翼的
 percolator   n.过滤器
 permeable    adj.可渗透的
@@ -16711,7 +16562,6 @@ preordain    vt.预定,预先注定命运
 preterit     a.过去的
 prevaricate  v.支吾其词，说谎
 prevarication    n.支吾,搪塞
-primordial   adj.最初的
 proclivity   n.倾向，癖性
 procrastination  n.拖延,担搁
 proem    n.序文,绪言,开端
@@ -16775,7 +16625,6 @@ scone    n.烤饼
 scow     n.大型平底船,盘艇
 scrapbook    n.剪贴簿
 screed   n.冗长的演说，长篇大论的文章
-scribler     n.潦草书写的人,三流作家,小文人
 scupper  n.排水孔
 seafarer     n.船员,航海家
 sea-level    adj.海平面
@@ -16862,7 +16711,6 @@ tenancy  n.租佃,租赁
 tenebrous    adj.黑暗的，难解的
 terrorize    vt.使恐怖,恐吓
 thaumaturgist    n.魔术师,奇术士
-threadlike   a.丝状的,象丝的,细长的
 titbit   n.珍品,珍闻
 titmouse     n.山雀类的小鸟
 toady    n.谄媚者，马屁精
@@ -16953,23 +16801,17 @@ torrid   adj.酷热的
 griddle  n.筛子，大孔筛
 acrid    a.苦味的,辛辣的,尖刻的
 arid     a.干旱的
-trident  n.三叉戟,三叉曲线,三叉鱼叉
 florid   adj.华丽的，(脸)红润的
 lurid    a.火烧似的,苍白的,华丽而庸俗的,
 grid     n.格子,栅极
 harridan     n.凶恶的老妇，老巫婆
 meagre   adj.瘦的，贫乏的
-butter   n.黄油;奶油
-butterfly    n.蝴蝶
 flutter  vi.(鸟)振翼;飘动
 mutter   vi.轻声低语;抱怨
 cutter   n.用于切割的器械
 gutter   n.沟，边沟;檐槽
 shutter  n.百叶窗;(相机)快门
-buttercup    n.毛茛,金凤花
 wood-cutter  n.伐木者
-butterscotch     n.奶油糖果
-buttermilk   n.白脱牛奶,酪浆
 sputter  n.喷溅声,劈啪声,咕哝,急语
 clutter  n.杂乱
 putter   n.置放者,推车工,轻击棒
@@ -17007,3 +16849,31 @@ travesty    v.歪曲，曲解
 pasty    adj.浆糊的，苍白的
 postage  n.邮费，邮资
 hostage  n.人质，抵押品
+birthright   n.与生俱来的权
+thread   n.线
+threaten     vt.&vi.威胁，恐吓
+threat   n.威胁，恐吓，凶兆
+threshold    n.门槛;入门，开端
+thresh   vt.打谷，脱粒;推敲
+threadbare   adj.磨破的，陈腐的
+thresher     n.打谷者,打谷机,长尾鲨
+threnody     n.挽歌，哀歌
+threadlike   a.丝状的,象丝的,细长的
+march    n.三月
+March    n.三月
+Wednesday    n.星期三
+minion   n.奴才，低三下四之人
+pansy    n.三色紫罗兰
+estuary  n.河口，三角湾
+median   adj.中间的，n.(三角形)中线
+syllogism    n.三段论法,推论法,演绎
+chloral  n.三氯乙荃,三氯乙二醇
+pennon   n.细长三角旗,小燕尾旗,枪旗
+velocipede   n.脚踏两轮车,孩童用三轮车,手 压车之一种
+freakish     adj. 畸形的；奇特的；朝三暮四的；异想天开的
+scribler     n.潦草书写的人,三流作家,小文人
+pediment     n.山形墙,三角墙
+hypotenuse   n.(直角三角形的)斜边
+cottonwood   n.『植物』三叶杨
+stomacher    n.三角胸衣
+vertex   n.(三角形等)顶角，顶点
