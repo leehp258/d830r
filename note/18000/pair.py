@@ -1,0 +1,107 @@
+pair     n.一对 vi.成对，配对
+repair   vt.&n.修理，修补
+impair   v.损害，使弱
+repairer     n.修理者;修补者
+operation    n.运算
+property     n.财产;财产权
+superior     a.较高的;优越的
+emperor  n.皇帝
+temperate    adj.自制的
+temperature  n.温度
+imperial     a.帝王的,至尊的,壮丽的
+opera    n.歌剧
+imperfect    a.有缺点的,半完成的,减弱的,
+operate  vi.&vt.动手术;操作
+superintendent   n.主管人;监督人
+supermarket  n.超级市场
+superstition     n.迷信，迷信行为
+temperance   n.自制，节制，禁酒
+superfluous  adj.多余的，累赘的
+drapery  n.帏帐,布料
+imperative   adj.急需的，必要的
+superstitious    a.迷信的
+aperture     n.孔隙，窄的缺口
+co-operation     n.合作
+imperious    adj.傲慢的，专横的
+operator     n.操作人员，接线员
+supersonic   a.超声的，超声速的
+co-operate   vi.合作
+co-operative     adj.合作的
+frippery     n.低俗，俗艳
+impervious   adj.不能渗透的，不为所动的
+superb   a.壮丽的;超等的
+superficial  a.表面的;肤浅的
+superintend  v.监督
+supervision  n.监督,管理
+supervisor   n.监督;主管
+temperament  n.气质,性质,性情
+appertain    vi.附属,关系,适合
+chaperon     v.陪伴，伴随
+imperceptible    adj.觉察不到的
+impertinent  adj.不恰当的，粗鲁的
+superhighway     n.超级高速公路
+uppermost    a.最上的,最高的,最上面的
+imperfection     n.不完全,不完备,缺点
+impersonal   a.客观的,和个人无关的,非人称 的
+superfluity  n.多余;过剩;过多; 超过;过量[of]
+superiority  n.优越,高傲
+superlative  adj.最佳的
+supernatural     a.超自然的
+supervise    vt.&vi.监督，监视
+taperecorder     n.磁带录音机
+copperas     n.绿矾
+intemperance     n.不节制,过度,酗酒
+peppercorn   n.(晒干的)胡椒子
+imperialism  n.帝国主义
+imperil  v.使陷于危险中，危及
+impertinence     n.鲁莽,无礼,不恰当
+intemperate  adj.无节制的，放纵的
+operatic     a.歌剧的,歌剧风格的
+pluperfect   n.过去完成时
+superhuman   a.超人的,人类能力所不能及的,
+trumpery     adj.中看不中用的，无价值的
+operative    adj.(计划等)实施中的，生效的
+operetta     n.小歌剧
+supercilious     adj.目中无人的，高傲的
+superscription   n.标题,姓名住址,题 名
+supersede    v.淘汰，取代
+superstructure   n.上部构造,建筑物,上 层建筑
+hyperbole    n.夸张法
+impersonate  v.模仿，扮演
+insuperable  adj.难以克服的
+supernumerary    adj.多余的，额外的
+foppery  n.打扮,矫饰,纨绔习气
+imperialist  n.帝国主义者
+peppermint   n.『植物』辣薄荷
+superadd     vt.再加⋯[于⋯][to]
+superimpose  v.加在上面，附加
+hyperborean  a.极北的,严寒的
+imperishable     a.不灭的,不朽的
+imperturbable    adj.冷静的，沉着的
+obstreperous     adj.吵闹的，难管束的
+pauperism    n.(须接受救济的)贫穷状态
+superannuate     vt.以年老而辞退<某人>
+superannuated    adj.老迈的，老式的
+superintendence  n.指挥,管理,监督 权
+amortizement ampere  n.安培
+hypercritical    adj.苛求的，吹毛求疵的
+impermeable  adj.不可渗透的，不透水的
+recuperate   v.恢复(健康)，复原
+repertoire   n.(剧团等)常备剧目
+supercargo   n.货物管理员
+supernal     adj.天堂的，天上的
+superposition    n.重叠,叠合,重合
+vituperative     adj.辱骂的，责骂的
+callipers    n.弯脚规,测径器
+calipers     n.pl.弯脚器,测径器
+imperturbability     n.沉着,冷静,自若
+obstreperous     adj.吵闹的，难管束的
+pimpernel    n.紫繁篓
+supereminent     a.卓越的,极为出色的
+temperamental    adj.性情的，喜怒无常的
+inoperative  a.不活动的,无效力的,不发生 效力的
+malapert     a.不客气的,厚脸皮的
+recuperation     n.恢复
+repercussion     n.反应，影响，回声
+superpose    vt.放在上面,重叠
+supervene    vi.<事件>(以意想外的形态)发 生,接
