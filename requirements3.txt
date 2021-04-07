@@ -13,7 +13,7 @@ cffi==1.9.1
 click==6.6
 docutils==0.12
 et-xmlfile==1.0.1
-Flask==0.11.1
+Flask==1.0
 Flask-Session==0.3.0
 fluent-logger==0.4.4
 fpdf==1.7.2
