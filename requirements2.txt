@@ -14,7 +14,7 @@ charade==1.0.3
 chardet==3.0.4
 cssselect==0.9.1
 cssutils==1.0.1
-Django==1.9.1
+Django==2.2.24
 django-rundirect==0.2.0
 django-url-decr==0.2.0
 docutils==0.12
