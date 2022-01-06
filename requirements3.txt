@@ -8,7 +8,7 @@ blueprint-decr==0.1.0
 boto==2.45.0
 boto3==1.4.2
 botocore==1.4.82
-celery==4.1.0
+celery==5.2.2
 cffi==1.9.1
 click==6.6
 docutils==0.12
